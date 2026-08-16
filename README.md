@@ -1,9 +1,6 @@
 <p align="center">
   <img src="CM_Photogrid_1786906212360.png" width="180" alt="Mohammadmahdi Rubin"/>
 </p>
-<p align="center">
-  <img src="CM_Photogrid_1786795295588.png" width="180" alt="Mohammadmahdi Rubin"/>
-</p>
 
 # Hi there, I'm Mohammadmahdi Rubin 👋  
 # سلام، من محمدمهدی روبین هستم 👋
