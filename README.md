@@ -143,15 +143,6 @@ My work focuses on creating high-quality educational materials and introducing R
       <img src="фотки%20успеху%202%20рабочая%20тетрадь_1.jpg" width="150"><br>
       <b>Path to Success 2 - Workbook</b><br>
       راه موفقیت ۲ - کتاب تمرین
-    </td>
-  </tr>
-    </td>
-    <td align="center">
-      <!-- خالی -->
-    </td>
-    <td align="center">
-      <!-- خالی -->
-    </td>
   </tr>
 </table>
 
