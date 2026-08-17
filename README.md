@@ -35,29 +35,32 @@ My work focuses on creating high-quality educational materials and introducing R
 - عضو کانون نویسندگان سرای اهل قلم و خانه کتاب و ادبیات ایران  
 
 ---
-
-### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
 ### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="C600X500_991981485150.jpg" width="150"><br>
-      <b>Road to Russia 1 & 2</b><br>
-      راه روسیه ۱ و ۲
+      <b>Road to Russia 1</b><br>
+      راه روسیه ۱
+    </td>
+    <td align="center" width="33%">
+      <img src="largepreview.png" width="150"><br>
+      <b>Road to Russia 2</b><br>
+      راه روسیه ۲
     </td>
     <td align="center" width="33%">
       <img src="путь%20к%20успеху%201_1.jpg" width="150"><br>
       <b>Path to Success 1</b><br>
       راه موفقیت ۱
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="путь%20к%20успеху%202_1.jpg" width="150"><br>
       <b>Path to Success 2</b><br>
       راه موفقیت ۲
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="энциклопедия_1%20(1).jpg" width="150"><br>
       <b>Encyclopedia of Russia</b><br>
@@ -68,18 +71,25 @@ My work focuses on creating high-quality educational materials and introducing R
       <b>Great Figures of Russian Literature</b><br>
       مشاهیر ادبیات روسیه
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="جلد%20فرهنگ%20روسیه_084716.jpg" width="150"><br>
       <b>Culture of Russia</b><br>
       فرهنگ روسیه
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <img src="جلد%20شهرهای%20روسیه_021732.jpg" width="150"><br>
+      <b>Cities of Russia</b><br>
+      شهرهای روسیه
+    </td>
     <td align="center">
       <img src="مسیحیت%20ارتدوکس%20روسی%20_1.jpg" width="150"><br>
       <b>Russian Orthodoxy</b><br>
       مسیحیت ارتدوکس روسی
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="موسیقی%20روسیه%20_1.jpg" width="150"><br>
       <b>Music of Russia</b><br>
@@ -89,6 +99,11 @@ My work focuses on creating high-quality educational materials and introducing R
       <img src="سخنان%20ناب_1.jpg" width="150"><br>
       <b>سخنان ناب</b><br>
       سخنان ناب
+    </td>
+    <td align="center">
+      <img src="по-русски_1.jpg" width="150"><br>
+      <b>Russian Handwriting</b><br>
+      خط تحریری روسی
     </td>
   </tr>
   <tr>
@@ -115,13 +130,14 @@ My work focuses on creating high-quality educational materials and introducing R
       روخوانی زبان روسی ۴
     </td>
     <td align="center">
-      <!-- جای خالی -->
+      <!-- خالی -->
     </td>
     <td align="center">
-      <!-- جای خالی -->
+      <!-- خالی -->
     </td>
   </tr>
 </table>
+
 
 | Title (English) | عنوان فارسی | Publisher | Year |
 |------------------|-------------|-----------|------|
