@@ -36,16 +36,15 @@ My work focuses on creating high-quality educational materials and introducing R
 
 ---
 ### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
-
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="C600X500_991981485150.jpg" width="150"><br>
+      <img src="largepreview.png" width="150"><br>
       <b>Road to Russia 1</b><br>
       راه روسیه ۱
     </td>
     <td align="center" width="33%">
-      <img src="largepreview.png" width="150"><br>
+      <img src="C600X500_991981485150.jpg" width="150"><br>
       <b>Road to Russia 2</b><br>
       راه روسیه ۲
     </td>
@@ -137,7 +136,6 @@ My work focuses on creating high-quality educational materials and introducing R
     </td>
   </tr>
 </table>
-
 
 | Title (English) | عنوان فارسی | Publisher | Year |
 |------------------|-------------|-----------|------|
