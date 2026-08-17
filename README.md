@@ -100,7 +100,7 @@ My work focuses on creating high-quality educational materials and introducing R
       سخنان ناب
     </td>
     <td align="center">
-      <img src="по-русски_1.jpg" width="150"><br>
+      <img src="учимся писать по-русски_1.jpg" width="150"><br>
       <b>Russian Handwriting</b><br>
       خط تحریری روسی
     </td>
