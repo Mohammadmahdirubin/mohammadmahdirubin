@@ -2,8 +2,232 @@
   <img src="CM_Photogrid_1786906212360.png" width="180" alt="Mohammadmahdi Rubin"/>
 </p>
 
-# Hi there, I'm Mohammadmahdi Rubin 👋  
+# Hi there, I'm Mohammadmahdi Rubin 
 # سلام، من محمدمهدی روبین هستم 👋
+
+حتماً. این نسخه را طوری تنظیم کردم که مستقیماً جایگزین README.md فعلی repository با نام Mohammadmahdirubin شود. نام شما در همه‌جا دقیقاً Mohammadmahdi Rubin است.
+
+یک نکته: چون عنوان و مشخصات کامل هر ۱۶ کتاب در پیام فعلی در دسترس من نیست، در بخش کتاب‌ها عنوان ساختگی اضافه نکرده‌ام. بخش کتاب‌ها را طوری طراحی کرده‌ام که بعداً فهرست دقیق آثار را بدون بازطراحی README وارد کنیم.
+
+Mohammadmahdi Rubin
+
+Russian Language Educator · Researcher · Author · Translator · Curriculum Developer
+
+Welcome to my academic and professional GitHub profile.
+
+I am a Russian language educator, researcher, author, translator, and curriculum developer with more than 25 years of experience in Russian language education, literature, culture, translation, and educational content development.
+
+My academic and professional work focuses on the intersection of language, literature, culture, translation, and intercultural communication, with particular emphasis on Russian as a Foreign Language (RFL) education and the development of Intercultural Communicative Competence (ICC).
+
+---
+
+About Me
+
+- MA in Russian Language Teaching, University of Tehran
+- Author and contributor to 20+ books and educational resources
+- More than 25 years of experience in Russian language education
+- Researcher in Russian language pedagogy, literature, culture, and intercultural communication
+- Translator of Russian literary, academic, and cultural texts into Persian
+- Curriculum developer and educational content designer
+- Independent researcher in Russian Studies and language education
+
+---
+
+Research Interests
+
+My research interests include:
+
+- Russian as a Foreign Language (RFL)
+- Intercultural Communicative Competence (ICC)
+- Russian language pedagogy
+- Literary texts in language education
+- Russian literature and culture
+- Translation studies
+- Curriculum development
+- Language, culture, and identity
+- Sociocultural approaches to language learning
+- Intercultural communication
+- Comparative linguistic and cultural studies
+- Educational materials and digital resources for Russian language learners
+
+---
+
+Current Research
+
+Literary Texts as Pedagogical Mediators
+
+My current research explores how authentic literary texts can function as pedagogical mediators in Russian as a Foreign Language education.
+
+The research examines the relationship between:
+
+Literary Texts → Language Development → Cultural Understanding → Critical Interpretation → Intercultural Communicative Competence
+
+The broader aim is to develop an integrated conceptual and pedagogical framework for using literature in university-level Russian language education.
+
+Russian Language and Intercultural Education
+
+Researching approaches to integrating language and culture in Russian language education, with particular attention to intercultural understanding and meaningful communication.
+
+Russian Language Curriculum Development
+
+Developing educational materials, curricula, and learning resources that integrate linguistic competence with literary, cultural, and intercultural learning.
+
+---
+
+Books & Educational Publications
+
+I have authored and contributed to more than 20 books and educational resources related to Russian language, literature, culture, translation, and language education.
+
+My publications include work in areas such as:
+
+- Russian language textbooks
+- Russian reading and comprehension
+- Russian grammar and language learning
+- Russian literature
+- Russian culture and civilization
+- Russian history and intellectual traditions
+- Translation
+- Language teaching methodology
+- Educational resources for Russian language learners
+
+Book Portfolio
+
+A dedicated digital bibliography of my books and publications is being developed as part of this GitHub academic portfolio.
+
+The portfolio will document:
+
+- Book title
+- Publication year
+- Publisher
+- ISBN, where available
+- Language
+- Subject area
+- Edition information
+- Cover image
+- Bibliographic information
+- Related research or educational materials
+
+---
+
+Selected Academic Themes
+
+Language Education
+
+Russian as a Foreign Language, language pedagogy, curriculum development, instructional design, and educational materials.
+
+Literature
+
+Russian literary texts as linguistic, cultural, interpretive, and pedagogical resources.
+
+Culture
+
+Russian culture, civilization, history, intellectual traditions, and intercultural understanding.
+
+Translation
+
+Russian–Persian translation, literary translation, academic translation, and cross-cultural transfer of meaning.
+
+Intercultural Communication
+
+The development of learners' ability to interpret, compare, negotiate, and communicate across linguistic and cultural boundaries.
+
+---
+
+Academic Portfolio
+
+This GitHub profile is being developed as an open academic portfolio containing research projects, educational resources, publications, bibliographic materials, and selected research documentation.
+
+Planned and developing repositories include:
+
+- "russian-language-education"
+- "russian-literature-research"
+- "russian-culture"
+- "russian-persian-translation"
+- "intercultural-communicative-competence"
+- "academic-publications"
+
+---
+
+Research Philosophy
+
+I view language education as more than the development of grammatical and communicative competence.
+
+Effective language learning can also provide learners with opportunities to engage with:
+
+Language
+
+→ Literature
+
+→ Culture
+
+→ Interpretation
+
+→ Critical Thinking
+
+→ Intercultural Understanding
+
+This perspective informs my research, teaching materials, curriculum development, and translation work.
+
+---
+
+Academic & Professional Profiles
+
+- ORCID: 0009-0004-8475-2804
+- ResearchGate: Mohammadmahdi Rubin
+- LinkedIn: Mohammadmahdi Rubin
+- Civilica: Mohammadmahdi Rubin
+- Telegram: @Sheraginrubin
+
+---
+
+Collaboration
+
+I am open to academic and professional collaboration in:
+
+- Russian language education
+- Russian Studies
+- Russian literature and cultural studies
+- Translation and literary translation
+- Intercultural communication
+- Curriculum development
+- Educational resource development
+- Academic research
+- Joint publications
+- International research projects
+
+---
+
+Languages
+
+- Persian — Native
+- Russian — Academic / Professional
+- English — Academic / Professional
+
+---
+
+GitHub Goals
+
+This profile is intended to become a structured digital research portfolio documenting my work as a:
+
+Researcher · Educator · Author · Translator · Curriculum Developer
+
+The long-term goal is to make selected research materials, educational resources, publications, and projects more accessible to researchers, educators, students, translators, and international academic collaborators.
+
+---
+
+Contact
+
+For academic collaboration, research projects, translation, publications, curriculum development, and educational initiatives, please connect with me through my professional profiles listed above.
+
+---
+
+Mohammadmahdi Rubin
+
+Russian Language Education · Literature · Culture · Translation · Intercultural Communication
+
+«Exploring the connections between language, literature, culture, and intercultural understanding.»
+
+
 
 **Russian Language Educator | Author | Translator | Researcher | Curriculum Developer**  
 **مدرس، مترجم، نویسنده و پژوهشگر زبان روسی**
