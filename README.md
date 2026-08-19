@@ -157,10 +157,11 @@ I have authored and contributed to more than 20 books and educational resources 
       <b>Music of Russia</b><br>
       موسیقی روسیه
     </td>
-    <td align="center">
+<td align="center">
       <img src="سخنان%20ناب_1.jpg" width="150"><br>
-      <b>سخنان ناب</b><br>
-      سخنان ناب
+      <b>Pure Words of the Cultured</b><br>
+      سخنان ناب فرهیختگان
+    </td>
     </td>
     <td align="center">
       <img src="учимся%20писать%20по-русски_1.jpg" width="150"><br>
