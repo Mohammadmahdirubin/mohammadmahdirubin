@@ -175,6 +175,17 @@ Platform| Profile
 🔷 Telegram| "@Sheraginrubin" (https://t.me/Sheraginrubin)
 📚 Civilica| "Mohammadmahdi Rubin" (https://en.civilica.com/p/371218/)
 
+
+Academic & Professional Profiles
+
+Platform| Link
+ORCID| "0009-0004-8475-2804" (https://orcid.org/0009-0004-8475-2804)
+LinkedIn| "Mohammadmahdi Rubin" (https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/)
+ResearchGate| "Mohammadmahdi Rubin" (https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
+Telegram| "@Sheraginrubin" (https://t.me/Sheraginrubin)
+Civilica| "Mohammadmahdi Rubin" (https://en.civilica.com/p/371218/)
+X| "@SheraginRubin" (https://x.com/SheraginRubin)
+
 Collaboration
 
 I am open to academic and professional collaboration in:
