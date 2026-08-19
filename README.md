@@ -1,8 +1,8 @@
 <p align="center">
   <img src="CM_Photogrid_1786906212360.png" width="230" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Mohammadmahdi Rubin"/>
 </p>
-# Hi there, I'm Mohammadmahdi Rubin  
-# سلام، من محمدمهدی روبین هستم
+Hi there, I'm Mohammadmahdi Rubin  
+سلام، من محمدمهدی روبین هستم
 
 **Russian Language Educator · Researcher · Author · Translator · Curriculum Developer**  
 **مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی**
