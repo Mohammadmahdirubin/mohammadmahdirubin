@@ -167,12 +167,37 @@ This perspective informs my research, teaching materials, curriculum development
 
 Academic & Professional Profiles
 
-- ORCID: 0009-0004-8475-2804
-- ResearchGate: Mohammadmahdi Rubin
-- LinkedIn: Mohammadmahdi Rubin
-- Civilica: Mohammadmahdi Rubin
-- Telegram: @Sheraginrubin
-
+<p align="center">
+  <a href="https://orcid.org/0009-0004-8475-2804">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="45" height="45" alt="ORCID">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Mohammadmahdi-Rubin">
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="45" height="45" alt="ResearchGate">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Sheraginrubin">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://en.civilica.com/p/371218/">
+    <img src="https://cdn.simpleicons.org/bookstack/0288D1" width="45" height="45" alt="Civilica">
+  </a>
+</p><p align="center">
+  <a href="https://orcid.org/0009-0004-8475-2804">ORCID</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.researchgate.net/profile/Mohammadmahdi-Rubin">ResearchGate</a>
+  &nbsp;•&nbsp;
+  <a href="https://t.me/Sheraginrubin">Telegram</a>
+  &nbsp;•&nbsp;
+  <a href="https://en.civilica.com/p/371218/">Civilica</a>
+</p>
 ---
 
 Collaboration
@@ -216,42 +241,7 @@ For academic collaboration, research projects, translation, publications, curric
 
 ---
 
-Mohammadmahdi Rubin
 
-Russian Language Education · Literature · Culture · Translation · Intercultural Communication
-
-«Exploring the connections between language, literature, culture, and intercultural understanding.»
-
-
-
-**Russian Language Educator | Author | Translator | Researcher | Curriculum Developer**  
-**مدرس، مترجم، نویسنده و پژوهشگر زبان روسی**
-
-With over **25 years** of professional experience in Russian language education and curriculum development.  
-با بیش از **۲۵ سال** تجربه حرفه‌ای در آموزش زبان روسی و تدوین برنامه درسی.
-
----
-
-### 👨‍🏫 About Me | درباره من
-
-I am a Russian language educator, author, and translator based in Iran.  
-My work focuses on creating high-quality educational materials and introducing Russian language and culture to Persian-speaking learners.
-
-من مدرس، نویسنده و مترجم زبان روسی هستم. تمرکز من روی تولید منابع آموزشی باکیفیت و معرفی زبان و فرهنگ روسیه به زبان‌آموزان فارسی‌زبان است.
-
-- Author of **20+ textbooks** on Russian language and culture  
-- Translator and researcher in Russian literature, history, and society  
-- Winner of International Russian Language Olympiads (Ulyanov University)  
-- B.Sc. in Power Electrical Engineering  
-- M.A. in Russian Language Teaching — University of Tehran  
-- Member of the Iranian Writers’ Association and Iran Book & Literature House  
-
-- نویسنده بیش از **۲۰ عنوان کتاب** آموزش زبان روسی و فرهنگ روسیه  
-- مترجم و پژوهشگر ادبیات، تاریخ و جامعه روسیه  
-- برنده المپیادهای بین‌المللی زبان روسی (دانشگاه اولیانوف)  
-- کارشناسی مهندسی برق قدرت  
-- کارشناس ارشد آموزش زبان روسی — دانشگاه تهران  
-- عضو کانون نویسندگان سرای اهل قلم و خانه کتاب و ادبیات ایران  
 
 ---
 ### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
