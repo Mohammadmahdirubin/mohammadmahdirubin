@@ -20,7 +20,6 @@ My work focuses on the intersection of language, literature, culture, translatio
 ---
 
 ## About Me | درباره من
-## About Me | درباره من
 
 | English | فارسی |
 |---------|------:|
