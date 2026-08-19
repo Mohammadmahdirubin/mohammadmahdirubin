@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="CM_Photogrid_1786906212360.png" width="240" alt="Mohammadmahdi Rubin"/>
+  <img src="CM_Photogrid_1786906212360.png" 
+       width="280" 
+       style="max-width: 100%; height: auto;" 
+       alt="Mohammadmahdi Rubin"/>
 </p>
 
 <h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
