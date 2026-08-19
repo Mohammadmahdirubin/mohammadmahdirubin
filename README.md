@@ -1,6 +1,6 @@
 <p align="center">
   <img src="CM_Photogrid_1786906212360.png" 
-       width="280" 
+       width="240" 
        style="max-width: 100%; height: auto;" 
        alt="Mohammadmahdi Rubin"/>
 </p>
