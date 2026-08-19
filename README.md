@@ -166,39 +166,14 @@ This perspective informs my research, teaching materials, curriculum development
 ---
 
 Academic & Professional Profiles
+Academic & Professional Profiles
 
-<p align="center">
-  <a href="https://orcid.org/0009-0004-8475-2804">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" width="45" height="45" alt="ORCID">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Mohammadmahdi-Rubin">
-    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="45" height="45" alt="ResearchGate">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Sheraginrubin">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://en.civilica.com/p/371218/">
-    <img src="https://cdn.simpleicons.org/bookstack/0288D1" width="45" height="45" alt="Civilica">
-  </a>
-</p><p align="center">
-  <a href="https://orcid.org/0009-0004-8475-2804">ORCID</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.researchgate.net/profile/Mohammadmahdi-Rubin">ResearchGate</a>
-  &nbsp;•&nbsp;
-  <a href="https://t.me/Sheraginrubin">Telegram</a>
-  &nbsp;•&nbsp;
-  <a href="https://en.civilica.com/p/371218/">Civilica</a>
-</p>
----
+Platform| Profile
+🟢 ORCID| "0009-0004-8475-2804" (https://orcid.org/0009-0004-8475-2804)
+🔵 LinkedIn| "Mohammadmahdi Rubin" (https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/)
+🟢 ResearchGate| "Mohammadmahdi Rubin" (https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
+🔷 Telegram| "@Sheraginrubin" (https://t.me/Sheraginrubin)
+📚 Civilica| "Mohammadmahdi Rubin" (https://en.civilica.com/p/371218/)
 
 Collaboration
 
