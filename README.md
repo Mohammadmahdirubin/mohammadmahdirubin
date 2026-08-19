@@ -19,9 +19,10 @@ My work focuses on the intersection of language, literature, culture, translatio
 ---
 
 ## About Me | درباره من
+## About Me | درباره من
 
 | English | فارسی |
-|---------|-------|
+|---------|------:|
 | BSc in Power Electrical Engineering, Islamic Azad University of Bushehr | کارشناسی مهندسی برق قدرت، دانشگاه آزاد اسلامی واحد بوشهر |
 | MA in Russian Language Teaching, University of Tehran | کارشناسی ارشد آموزش زبان روسی، دانشگاه تهران |
 | Author and contributor to 20+ books and educational resources | نویسنده و همکار در بیش از ۲۰ کتاب و منبع آموزشی |
@@ -30,13 +31,12 @@ My work focuses on the intersection of language, literature, culture, translatio
 | Translator of Russian literary, academic, and cultural texts into Persian | مترجم متون ادبی، علمی و فرهنگی روسی به فارسی |
 | Curriculum developer and educational content designer | طراح برنامه درسی و تولیدکننده محتوای آموزشی |
 | Independent researcher in Russian Studies and language education | پژوهشگر مستقل در مطالعات روسیه و آموزش زبان |
-
 ---
 
 ## Research Interests | علایق پژوهشی
 
 | English | فارسی |
-|---------|-------|
+|---------|------:|
 | Russian as a Foreign Language (RFL) | زبان روسی به‌عنوان زبان خارجی |
 | Intercultural Communicative Competence (ICC) | شایستگی ارتباطی میان‌فرهنگی |
 | Russian language pedagogy | روش‌شناسی آموزش زبان روسی |
@@ -49,7 +49,6 @@ My work focuses on the intersection of language, literature, culture, translatio
 | Intercultural communication | ارتباطات میان‌فرهنگی |
 | Comparative linguistic and cultural studies | مطالعات تطبیقی زبانی و فرهنگی |
 | Educational materials and digital resources for Russian language learners | منابع آموزشی و دیجیتال برای زبان‌آموزان روسی |
-
 ---
 
 ## Current Research | پژوهش‌های جاری
