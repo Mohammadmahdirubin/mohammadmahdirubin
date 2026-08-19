@@ -274,7 +274,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 
 | English | فارسی |
 |---------|------:|
-| Online Russian language instruction (A1–C1) | تدریس آنلاین زبان روسی (سطوح A1 تا C1) |
+| Online Russian language instruction (A1–C1) | (سطوح A1 تا C1)تدریس آنلاین زبان روسی  |
 | Developing new materials in the *Russia Studies* series | تألیف منابع جدید در مجموعه روسیه‌شناسی |
 | Translating and adapting educational content for Persian learners | ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان ||
 
