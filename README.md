@@ -64,8 +64,7 @@ The research examines the relationship between:
 
 **Literary Texts → Language Development → Cultural Understanding → Critical Interpretation → Intercultural Communicative Competence**
 
-**متون ادبی → رشد زبانی → درک فرهنگی → تفسیر انتقادی → شایستگی ارتباطی میان‌فرهنگی**
-
+**متون ادبی ← رشد زبانی ← درک فرهنگی ← تفسیر انتقادی ← شایستگی ارتباطی میان‌فرهنگی**
 The broader aim is to develop an integrated conceptual and pedagogical framework for using literature in university-level Russian language education.  
 هدف گسترده‌تر، توسعه یک چارچوب مفهومی و آموزشی یکپارچه برای استفاده از ادبیات در آموزش زبان روسی در سطح دانشگاه است.
 
