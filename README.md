@@ -93,7 +93,7 @@ Effective language learning can also provide learners with opportunities to enga
 
 **Language → Literature → Culture → Interpretation → Critical Thinking → Intercultural Understanding**
 
-**زبان → ادبیات → فرهنگ → تفسیر → تفکر انتقادی → درک میان‌فرهنگی**
+**زبان ← ادبیات ← فرهنگ ← تفسیر ← تفکر انتقادی ← درک میان‌فرهنگی**
 
 This perspective informs my research, teaching materials, curriculum development, and translation work.  
 این دیدگاه پژوهش، مواد آموزشی، طراحی برنامه درسی و کارهای ترجمه‌ام را شکل می‌دهد.
