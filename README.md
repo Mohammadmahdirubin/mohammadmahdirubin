@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CM_Photogrid_1786906212360.png" width="230" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Mohammadmahdi Rubin"/>
+  <img src="CM_Photogrid_1786906212360.png" width="250" alt="Mohammadmahdi Rubin"/>
 </p>
 # Hi there, I'm Mohammadmahdi Rubin  
 # سلام، من محمدمهدی روبین هستم
