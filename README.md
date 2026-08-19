@@ -250,19 +250,8 @@ Selected Books
     Publisher: Rahnama
 
 13. Sokhanan-e Nab
-    Persian: سخنان ناب
+    Persian: سخنان ناب فرهیختگان
 
-Languages
-
-Language| Level
-Persian| Native
-Russian| Academic / Professional
-English| Academic / Professional
----
-
-Mohammadmahdi Rubin
-
-Russian Language Education · Literature · Culture · Translation · Intercultural Communication
 ---
 ### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
 
