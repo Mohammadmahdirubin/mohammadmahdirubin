@@ -250,14 +250,13 @@ This GitHub profile is being developed as an open academic portfolio containing 
 **Planned and developing repositories | مخازن برنامه‌ریزی‌شده و در حال توسعه:**
 
 | Repository | توضیح |
-|------------|-------|
+|------------|------:|
 | `russian-language-education` | آموزش زبان روسی |
 | `russian-literature-research` | پژوهش ادبیات روسی |
 | `russian-culture` | فرهنگ روسیه |
 | `russian-persian-translation` | ترجمه روسی–فارسی |
 | `intercultural-communicative-competence` | شایستگی ارتباطی میان‌فرهنگی |
 | `academic-publications` | انتشارات علمی |
-
 ---
 
 ## Academic & Professional Profiles | پروفایل‌های علمی و حرفه‌ای
