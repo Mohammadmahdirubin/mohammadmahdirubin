@@ -1,8 +1,12 @@
 <p align="center">
   <img src="CM_Photogrid_1786906212360.png" width="240" alt="Mohammadmahdi Rubin"/>
 </p>
-Hi there, I'm Mohammadmahdi Rubin  
-سلام، من محمدمهدی روبین هستم
+<p align="center">
+  <img src="CM_Photogrid_1786906212360.png" width="240" alt="Mohammadmahdi Rubin"/>
+</p>
+
+<h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
+<h3 align="center">سلام، من محمدمهدی روبین هستم</h3>
 
 **Russian Language Educator · Researcher · Author · Translator · Curriculum Developer**  
 **مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی**
