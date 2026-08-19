@@ -287,4 +287,4 @@ I am open to collaboration on educational content, translation projects (Russian
 آماده همکاری در زمینه تولید محتوای آموزشی، پروژه‌های ترجمه (روسی ↔ فارسی)، طراحی برنامه درسی و منابع دیجیتال یادگیری هستم.
 
 Feel free to reach out!  
-خوشحال می‌شم در ارتباط باشیم.
+خوشحال می‌شوم در ارتباط باشیم.
