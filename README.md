@@ -270,14 +270,13 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | **Civilica** | [Mohammadmahdi Rubin](https://en.civilica.com/p/371218/) |
 | **X** | [@SheraginRubin](https://x.com/SheraginRubin) |
 
----## 🎯 Current Focus | تمرکز فعلی
+## 🎯 Current Focus | تمرکز فعلی
 
 | English | فارسی |
 |---------|------:|
-| Online Russian language instruction (A1–C1) 
-(سطوح A1 تا C1) تدریس آنلاین زبان روسی  |
+| Online Russian language instruction (A1–C1) | تدریس آنلاین زبان روسی<br>سطوح A1 تا C1 |
 | Developing new materials in the *Russia Studies* series | تألیف منابع جدید در مجموعه روسیه‌شناسی |
-| Translating and adapting educational content for Persian learners | ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان ||
+| Translating and adapting educational content for Persian learners | ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان |
 
 ---
 
