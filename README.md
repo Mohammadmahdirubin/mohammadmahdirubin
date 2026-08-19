@@ -143,6 +143,26 @@ Planned and developing repositories include:
 
 ---
 
+## Academic & Professional Profiles
+
+🔗 **ORCID**  
+[0009-0004-8475-2804](https://orcid.org/0009-0004-8475-2804)
+
+🔗 **LinkedIn**  
+[ Mohammadmahdi Rubin](https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/)
+
+🔗 **ResearchGate**  
+[ Mohammadmahdi Rubin](https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
+
+🔗 **Telegram**  
+[@Sheraginrubin](https://t.me/Sheraginrubin)
+
+🔗 **Civilica**  
+[ Mohammadmahdi Rubin](https://en.civilica.com/p/371218/)
+
+🔗 **X**  
+[@SheraginRubin](https://x.com/SheraginRubin)
+
 Research Philosophy
 
 I view language education as more than the development of grammatical and communicative competence.
