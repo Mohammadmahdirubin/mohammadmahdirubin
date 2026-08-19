@@ -2,8 +2,7 @@
   <img src="CM_Photogrid_1786906212360.png" width="180" alt="Mohammadmahdi Rubin"/>
 </p>
 
-# Hi there, I'm Mohammadmahdi Rubin 
-# سلام، من محمدمهدی روبین هستم
+# Hi there, I'm Mohammadmahdi Rubin
 
 ```markdown
 <p align="center">
@@ -427,4 +426,4 @@ I am open to collaboration on educational content, translation projects (Russian
 آماده همکاری در زمینه تولید محتوای آموزشی، پروژه‌های ترجمه (روسی ↔ فارسی)، طراحی برنامه درسی و منابع دیجیتال یادگیری هستم.
 
 Feel free to reach out!  
-خوشحال می‌شم در ارتباط باشیم.
+خوشحال می‌شوم در ارتباط باشیم.
