@@ -185,31 +185,72 @@ This perspective informs my research, teaching materials, curriculum development
 
 ---
 
-Research Interests
----
-
 Books & Educational Publications
 
 I have authored and contributed to more than 20 books and educational resources in Russian language education, Russian literature and culture, translation, and language learning.
 
 Selected Books
 
-English Title| Persian Title| Publisher| Year
-Road to Russia 1 & 2| راه روسیه ۱ و ۲| Rahnama| 2023
-Path to Success 1 & 2| راه موفقیت ۱ و ۲| Rahnama| 2023–2024
-Russian Reading Series 1–4| روخوانی زبان روسی ۱ تا ۴| Rahnama| 2023
-Encyclopedia of Russia| دانشنامه روسیه| Rahnama| 2023
-Great Figures of Russian Literature| مشاهیر ادبیات روسیه| Rahnama| 2023
-Culture of Russia| فرهنگ روسیه| Rahnama| 2023
-Cities of Russia| شهرهای روسیه| Rahnama| 2022
-Russian Orthodoxy| مسیحیت ارتدوکس روسی| Rahnama| 2025
-Music of Russia| موسیقی روسیه| Rahnama| 2025
-Russian Handwriting| خط تحریری روسی| Rahnama| 2023
-Path to Success 1 — Workbook| راه موفقیت ۱ — کتاب تمرین| Rahnama| —
-Path to Success 2 — Workbook| راه موفقیت ۲ — کتاب تمرین| Rahnama| —
-Sokhanan-e Nab| سخنان ناب| —| —
+1. Road to Russia 1 & 2
+   Persian: راه روسیه ۱ و ۲
+   Publisher: Rahnama
+   Year: 2023
 
----
+2. Path to Success 1 & 2
+   Persian: راه موفقیت ۱ و ۲
+   Publisher: Rahnama
+   Year: 2023–2024
+
+3. Russian Reading Series 1–4
+   Persian: روخوانی زبان روسی ۱ تا ۴
+   Publisher: Rahnama
+   Year: 2023
+
+4. Encyclopedia of Russia
+   Persian: دانشنامه روسیه
+   Publisher: Rahnama
+   Year: 2023
+
+5. Great Figures of Russian Literature
+   Persian: مشاهیر ادبیات روسیه
+   Publisher: Rahnama
+   Year: 2023
+
+6. Culture of Russia
+   Persian: فرهنگ روسیه
+   Publisher: Rahnama
+   Year: 2023
+
+7. Cities of Russia
+   Persian: شهرهای روسیه
+   Publisher: Rahnama
+   Year: 2022
+
+8. Russian Orthodoxy
+   Persian: مسیحیت ارتدوکس روسی
+   Publisher: Rahnama
+   Year: 2025
+
+9. Music of Russia
+   Persian: موسیقی روسیه
+   Publisher: Rahnama
+   Year: 2025
+
+10. Russian Handwriting
+    Persian: خط تحریری روسی
+    Publisher: Rahnama
+    Year: 2023
+
+11. Path to Success 1 — Workbook
+    Persian: راه موفقیت ۱ — کتاب تمرین
+    Publisher: Rahnama
+
+12. Path to Success 2 — Workbook
+    Persian: راه موفقیت ۲ — کتاب تمرین
+    Publisher: Rahnama
+
+13. Sokhanan-e Nab
+    Persian: سخنان ناب
 
 Languages
 
