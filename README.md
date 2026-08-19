@@ -191,110 +191,17 @@ Sokhanan-e Nab| سخنان ناب| —| —
 
 ---
 
-Publication Areas
-
-My books and educational publications cover:
-
-- Russian language textbooks
-- Russian reading and comprehension
-- Russian language learning
-- Russian literature
-- Russian culture and civilization
-- Russian history and society
-- Russian intellectual and religious traditions
-- Translation
-- Language teaching methodology
-- Educational resources for Russian language learners
-
----
-
-Academic & Professional Profiles
-
-Platform| Profile
-ORCID| "0009-0004-8475-2804" (https://orcid.org/0009-0004-8475-2804)
-LinkedIn| "Mohammadmahdi Rubin" (https://www.linkedin.com/in/mohammadmahdi-rubin-9aaa145a/)
-ResearchGate| "Mohammadmahdi Rubin" (https://www.researchgate.net/profile/Mohammadmahdi-Rubin)
-Telegram| "@Sheraginrubin" (https://t.me/Sheraginrubin)
-Civilica| "Mohammadmahdi Rubin" (https://en.civilica.com/p/371218/)
-X| "@SheraginRubin" (https://x.com/SheraginRubin)
-
----
-
-Academic Portfolio
-
-This GitHub profile is being developed as an open academic portfolio for research projects, educational resources, publications, bibliographic materials, and selected research documentation.
-
-Planned research repositories include:
-
-- "russian-language-education"
-- "russian-literature-research"
-- "russian-culture"
-- "russian-persian-translation"
-- "intercultural-communicative-competence"
-- "academic-publications"
-
----
-
-Research Philosophy
-
-I view language education as more than the development of grammatical and communicative competence.
-
-Effective language learning can also provide opportunities for learners to engage with:
-
-Language → Literature → Culture → Interpretation → Critical Thinking → Intercultural Understanding
-
-This perspective informs my research, teaching materials, curriculum development, and translation work.
-
----
-
-Current Professional Focus
-
-- Russian language instruction from A1 to C1
-- Development of Russian language and Russia Studies materials
-- Translation and adaptation of educational content for Persian-speaking learners
-- Literary and cultural research
-- Curriculum development
-- Intercultural language education
-
----
-
-Collaboration
-
-I am open to academic and professional collaboration in:
-
-- Russian language education
-- Russian Studies
-- Russian literature and cultural studies
-- Translation and literary translation
-- Intercultural communication
-- Curriculum development
-- Educational resource development
-- Academic research
-- Joint publications
-- International research projects
-
----
-
 Languages
 
 Language| Level
 Persian| Native
 Russian| Academic / Professional
 English| Academic / Professional
-
----
-
-Contact
-
-For academic collaboration, research projects, translation, publications, curriculum development, and educational initiatives, please connect through the professional profiles listed above.
-
 ---
 
 Mohammadmahdi Rubin
 
 Russian Language Education · Literature · Culture · Translation · Intercultural Communication
-
-«Exploring the connections between language, literature, culture, and intercultural understanding.»
 ---
 ### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
 
@@ -426,16 +333,7 @@ Russian Language Education · Literature · Culture · Translation · Intercultu
 
 - تدریس آنلاین زبان روسی (سطوح A1 تا C1)  
 - تألیف منابع جدید در مجموعه روسیه‌شناسی  
-- ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان  
-
----
-
-### 🌐 Connect with Me | راه‌های ارتباطی
-
-- **Telegram**: [t.me/RussianLan](https://t.me/RussianLan)  
-- **X (Twitter)**: [@SheraginRubin](https://x.com/SheraginRubin)  
-- **LinkedIn**: [Mohammadmahdi Rubin](https://www.linkedin.com/in/mohammadmahdi-rubin)  
-- **Email**: sheragin.r@gmail.com  
+- ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان 
 
 ---
 
