@@ -3,12 +3,7 @@
 </p>
 
 # Hi there, I'm Mohammadmahdi Rubin 
-# سلام، من محمدمهدی روبین هستم 👋
-
-حتماً. این نسخه را طوری تنظیم کردم که مستقیماً جایگزین README.md فعلی repository با نام Mohammadmahdirubin شود. نام شما در همه‌جا دقیقاً Mohammadmahdi Rubin است.
-
-یک نکته: چون عنوان و مشخصات کامل هر ۱۶ کتاب در پیام فعلی در دسترس من نیست، در بخش کتاب‌ها عنوان ساختگی اضافه نکرده‌ام. بخش کتاب‌ها را طوری طراحی کرده‌ام که بعداً فهرست دقیق آثار را بدون بازطراحی README وارد کنیم.
-
+# سلام، من محمدمهدی روبین هستم
 Mohammadmahdi Rubin
 
 Russian Language Educator · Researcher · Author · Translator · Curriculum Developer
