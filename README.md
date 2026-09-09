@@ -245,6 +245,16 @@ I have authored and contributed to more than 20 books and educational resources 
 
 ---
 
+## Conference Papers & Accepted Research | مقالات کنفرانسی و پژوهش‌های پذیرفته‌شده
+
+A dedicated bilingual page presents three papers that have been peer-reviewed and officially accepted for presentation and publication in the Fourth International Conference on Language, Literature, Culture and Historical Studies.
+
+صفحه‌ای اختصاصی و دوزبانه شامل سه مقاله‌ای است که پس از داوری تخصصی، به‌طور رسمی برای ارائه و انتشار در چهارمین کنفرانس بین‌المللی زبان، ادبیات، فرهنگ و مطالعات تاریخی پذیرفته شده‌اند.
+
+**[View the dedicated conference papers page | مشاهده صفحه اختصاصی مقالات کنفرانسی →](conference-papers.md)**
+
+---
+
 ## Academic Portfolio | پورتفولیو علمی
 
 This GitHub profile is being developed as an open academic portfolio containing research projects, educational resources, publications, bibliographic materials, and selected research documentation.  
