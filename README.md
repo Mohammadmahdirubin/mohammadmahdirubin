@@ -8,19 +8,39 @@
 <h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
 <h3 align="center">سلام، من محمدمهدی روبین هستم</h3>
 
-**Russian Language Educator · Researcher · Author · Translator · Curriculum Developer**  
-**Publisher & Managing Editor, Russian Language Studies (RLS)**  
-**مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی**  
-**صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی**
+<p align="center">
+<strong>Russian Language Educator · Researcher · Author · Translator · Curriculum Developer</strong><br>
+<strong>Publisher & Managing Editor, Russian Language Studies (RLS)</strong>
+</p>
 
-Welcome to my academic and professional GitHub profile.  
+<p align="center" dir="rtl">
+<strong>مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی</strong><br>
+<strong>صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی</strong>
+</p>
+
+Welcome to my academic and professional GitHub profile.
+
+<div dir="rtl" align="right">
+
 به پروفایل علمی و حرفه‌ای من در گیت‌هاب خوش آمدید.
 
-I am a Russian language educator, researcher, author, translator, and curriculum developer with more than 25 years of experience in Russian language education, literature, culture, translation, and educational content development.  
+</div>
+
+I am a Russian language educator, researcher, author, translator, and curriculum developer with more than 25 years of experience in Russian language education, literature, culture, translation, and educational content development.
+
+<div dir="rtl" align="right">
+
 من مدرس زبان روسی، پژوهشگر، نویسنده، مترجم و طراح برنامه درسی هستم و بیش از ۲۵ سال تجربه در آموزش زبان روسی، ادبیات، فرهنگ، ترجمه و تولید محتوای آموزشی دارم.
 
-My work focuses on the intersection of language, literature, culture, translation, and intercultural communication, with particular emphasis on Russian as a Foreign Language (RFL) education and the development of Intercultural Communicative Competence (ICC).  
+</div>
+
+My work focuses on the intersection of language, literature, culture, translation, and intercultural communication, with particular emphasis on Russian as a Foreign Language (RFL) education and the development of Intercultural Communicative Competence (ICC).
+
+<div dir="rtl" align="right">
+
 تمرکز کار من بر تلاقی زبان، ادبیات، فرهنگ، ترجمه و ارتباطات میان‌فرهنگی است، با تأکید ویژه بر آموزش زبان روسی به‌عنوان زبان خارجی (RFL) و توسعه شایستگی ارتباطی میان‌فرهنگی (ICC).
+
+</div>
 
 ---
 
@@ -36,27 +56,51 @@ My work focuses on the intersection of language, literature, culture, translatio
 | Translator of Russian literary, academic, and cultural texts into Persian | مترجم متون ادبی، علمی و فرهنگی روسی به فارسی |
 | Curriculum developer and educational content designer | طراح برنامه درسی و تولیدکننده محتوای آموزشی |
 | Independent researcher in Russian Studies and language education | پژوهشگر مستقل در مطالعات روسیه و آموزش زبان |
-| **Publisher & Managing Editor of *Russian Language Studies*** | **صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی** |
+| Publisher & Managing Editor of *Russian Language Studies* | صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی |
 
 ---
 
 ## Journal | نشریه
 
-### Russian Language Studies (RLS)  
-### دوفصلنامه مطالعات زبان روسی
+### Russian Language Studies (RLS)
 
-**Publisher & Managing Editor** of the biannual scholarly journal *Russian Language Studies* (Persian: دوفصلنامه مطالعات زبان روسی; Russian: Исследования по русскому языку).  
-**صاحب‌امتیاز و مدیرمسئول** دوفصلنامه علمی *مطالعات زبان روسی* با نام انگلیسی *Russian Language Studies* و نام روسی *Исследования по русскому языку*.
+**English title:** Russian Language Studies  
+**Persian title:** دوفصلنامه مطالعات زبان روسی  
+**Russian title:** Исследования по русскому языку
 
-The journal is dedicated to research on Russian language, linguistics, language education, literature, culture, translation, and related interdisciplinary studies.  
+**Role (English):** Publisher & Managing Editor of the biannual scholarly journal *Russian Language Studies*.
+
+<div dir="rtl" align="right">
+
+**سمت (فارسی):** صاحب‌امتیاز و مدیرمسئول دوفصلنامه علمی مطالعات زبان روسی.
+
+</div>
+
+The journal is dedicated to research on Russian language, linguistics, language education, literature, culture, translation, and related interdisciplinary studies.
+
+<div dir="rtl" align="right">
+
 این نشریه به پژوهش در حوزه زبان روسی، زبان‌شناسی، آموزش زبان، ادبیات، فرهنگ، ترجمه و مطالعات میان‌رشته‌ای مرتبط اختصاص دارد.
 
-- **Ministry of Culture and Islamic Guidance License:** 94254  
-  **مجوز وزارت فرهنگ و ارشاد اسلامی:** ۹۴۲۵۴
-- **License date:** 2023/07/24 (1402/05/02)  
-  **تاریخ مجوز:** ۱۴۰۲/۰۵/۰۲
-- **Journal website | وب‌سایت نشریه:** [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/)
-- **Repository | مخزن:** [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS)
+</div>
+
+| Item | Value |
+|------|-------|
+| Ministry license | 94254 |
+| License date | 2023/07/24 (1402/05/02) |
+| Journal website | [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/) |
+| Repository | [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS) |
+
+<div dir="rtl" align="right">
+
+| مورد | مقدار |
+|------|-------|
+| مجوز وزارت فرهنگ و ارشاد اسلامی | ۹۴۲۵۴ |
+| تاریخ مجوز | ۱۴۰۲/۰۵/۰۲ |
+| وب‌سایت نشریه | [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/) |
+| مخزن | [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS) |
+
+</div>
 
 ---
 
@@ -71,22 +115,31 @@ The journal is dedicated to research on Russian language, linguistics, language 
 <div dir="rtl" align="right">
 
 **عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
-*انجمن زبان‌شناسی شناختی آلمان*  
 **از ۲۰۲۶ تاکنون**
 
 </div>
 
 Official website: https://www.dgkl-gcla.de/
 
-### Iran Book and Literature House | خانه کتاب و ادبیات ایران
+### Iran Book and Literature House
 
-**Member, Iran Book and Literature House**  
+**Member, Iran Book and Literature House**
+
+<div dir="rtl" align="right">
+
 **عضو خانه کتاب و ادبیات ایران**
 
-### Writers' Association of Saraye Ahle Qalam | کانون نویسندگان سرای اهل قلم
+</div>
 
-**Member, Writers' Association of Saraye Ahle Qalam**  
+### Writers' Association of Saraye Ahle Qalam
+
+**Member, Writers' Association of Saraye Ahle Qalam**
+
+<div dir="rtl" align="right">
+
 **عضو کانون نویسندگان سرای اهل قلم**
+
+</div>
 
 ---
 
@@ -106,54 +159,94 @@ Official website: https://www.dgkl-gcla.de/
 | Intercultural communication | ارتباطات میان‌فرهنگی |
 | Comparative linguistic and cultural studies | مطالعات تطبیقی زبانی و فرهنگی |
 | Educational materials and digital resources for Russian language learners | منابع آموزشی و دیجیتال برای زبان‌آموزان روسی |
+
 ---
 
 ## Current Research | پژوهش‌های جاری
 
-### Literary Texts as Pedagogical Mediators  
+### Literary Texts as Pedagogical Mediators
+
+My current research explores how authentic literary texts can function as pedagogical mediators in Russian as a Foreign Language education.
+
+<div dir="rtl" align="right">
+
 ### متون ادبی به‌عنوان میانجی‌های آموزشی
 
-My current research explores how authentic literary texts can function as pedagogical mediators in Russian as a Foreign Language education.  
 پژوهش فعلی من بررسی می‌کند که چگونه متون ادبی اصیل می‌توانند به‌عنوان میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی عمل کنند.
 
-The research examines the relationship between:  
-این پژوهش رابطه میان موارد زیر را بررسی می‌کند:
+</div>
+
+The research examines the relationship between:
 
 **Literary Texts → Language Development → Cultural Understanding → Critical Interpretation → Intercultural Communicative Competence**
 
+<div dir="rtl" align="right">
+
 **متون ادبی ← رشد زبانی ← درک فرهنگی ← تفسیر انتقادی ← شایستگی ارتباطی میان‌فرهنگی**
 
-The broader aim is to develop an integrated conceptual and pedagogical framework for using literature in university-level Russian language education.  
+</div>
+
+The broader aim is to develop an integrated conceptual and pedagogical framework for using literature in university-level Russian language education.
+
+<div dir="rtl" align="right">
+
 هدف گسترده‌تر، توسعه یک چارچوب مفهومی و آموزشی یکپارچه برای استفاده از ادبیات در آموزش زبان روسی در سطح دانشگاه است.
 
-### Russian Language and Intercultural Education  
+</div>
+
+### Russian Language and Intercultural Education
+
+Researching approaches to integrating language and culture in Russian language education, with particular attention to intercultural understanding and meaningful communication.
+
+<div dir="rtl" align="right">
+
 ### زبان روسی و آموزش میان‌فرهنگی
 
-Researching approaches to integrating language and culture in Russian language education, with particular attention to intercultural understanding and meaningful communication.  
 پژوهش در رویکردهای ادغام زبان و فرهنگ در آموزش زبان روسی، با توجه ویژه به درک میان‌فرهنگی و ارتباط معنادار.
 
-### Russian Language Curriculum Development  
+</div>
+
+### Russian Language Curriculum Development
+
+Developing educational materials, curricula, and learning resources that integrate linguistic competence with literary, cultural, and intercultural learning.
+
+<div dir="rtl" align="right">
+
 ### طراحی برنامه درسی زبان روسی
 
-Developing educational materials, curricula, and learning resources that integrate linguistic competence with literary, cultural, and intercultural learning.  
 توسعه مواد آموزشی، برنامه‌های درسی و منابع یادگیری که شایستگی زبانی را با یادگیری ادبی، فرهنگی و میان‌فرهنگی ادغام می‌کنند.
+
+</div>
 
 ---
 
 ## Research Philosophy | فلسفه پژوهشی
 
-I view language education as more than the development of grammatical and communicative competence.  
+I view language education as more than the development of grammatical and communicative competence.
+
+<div dir="rtl" align="right">
+
 من آموزش زبان را فراتر از توسعه شایستگی دستوری و ارتباطی می‌بینم.
 
-Effective language learning can also provide learners with opportunities to engage with:  
-یادگیری مؤثر زبان می‌تواند فرصت‌هایی برای زبان‌آموزان فراهم کند تا با موارد زیر درگیر شوند:
+</div>
+
+Effective language learning can also provide learners with opportunities to engage with:
 
 **Language → Literature → Culture → Interpretation → Critical Thinking → Intercultural Understanding**
 
+<div dir="rtl" align="right">
+
 **زبان ← ادبیات ← فرهنگ ← تفسیر ← تفکر انتقادی ← درک میان‌فرهنگی**
 
-This perspective informs my research, teaching materials, curriculum development, and translation work.  
+</div>
+
+This perspective informs my research, teaching materials, curriculum development, and translation work.
+
+<div dir="rtl" align="right">
+
 این دیدگاه پژوهش، مواد آموزشی، طراحی برنامه درسی و کارهای ترجمه‌ام را شکل می‌دهد.
+
+</div>
 
 ---
 
@@ -171,10 +264,15 @@ This perspective informs my research, teaching materials, curriculum development
 
 ## Books & Educational Publications | کتاب‌ها و انتشارات آموزشی
 
-I have authored and contributed to more than 20 books and educational resources related to Russian language, literature, culture, translation, and language education.  
+I have authored and contributed to more than 20 books and educational resources related to Russian language, literature, culture, translation, and language education.
+
+<div dir="rtl" align="right">
+
 من نویسنده و همکار در بیش از ۲۰ کتاب و منبع آموزشی مرتبط با زبان روسی، ادبیات، فرهنگ، ترجمه و آموزش زبان هستم.
 
-### 📚 Selected Publications | گزیده‌ای از کتاب‌ها
+</div>
+
+### Selected Publications | گزیده‌ای از کتاب‌ها
 
 <table>
   <tr>
@@ -283,19 +381,19 @@ I have authored and contributed to more than 20 books and educational resources 
 
 <br>
 
-| Title (English)                      | عنوان فارسی                  | Publisher | Year      |
-|--------------------------------------|------------------------------|-----------|-----------|
-| Road to Russia 1 & 2                 | راه روسیه ۱ و ۲              | Rahnama   | 2023      |
-| Path to Success 1 & 2                | راه موفقیت ۱ و ۲             | Rahnama   | 2023–2024 |
-| Russian Reading Series (1–4)         | روخوانی زبان روسی (۱ تا ۴)   | Rahnama   | 2023      |
-| Encyclopedia of Russia               | دانشنامه روسیه               | Rahnama   | 2023      |
-| Great Figures of Russian Literature  | مشاهیر ادبیات روسیه          | Rahnama   | 2023      |
-| Culture of Russia                    | فرهنگ روسیه                  | Rahnama   | 2023      |
-| Cities of Russia                     | شهرهای روسیه                 | Rahnama   | 2022      |
-| Russian Orthodoxy                    | مسیحیت ارتدوکس روسی          | Rahnama   | 2025      |
-| Music of Russia                      | موسیقی روسیه                 | Rahnama   | 2025      |
-| Russian Handwriting                  | خط تحریری روسی               | Rahnama   | 2023      |
-| Pure Words of the Cultured           | سخنان ناب فرهیختگان          | —         | —         |
+| Title (English) | عنوان فارسی | Publisher | Year |
+|-----------------|-------------|-----------|------|
+| Road to Russia 1 & 2 | راه روسیه ۱ و ۲ | Rahnama | 2023 |
+| Path to Success 1 & 2 | راه موفقیت ۱ و ۲ | Rahnama | 2023–2024 |
+| Russian Reading Series (1–4) | روخوانی زبان روسی (۱ تا ۴) | Rahnama | 2023 |
+| Encyclopedia of Russia | دانشنامه روسیه | Rahnama | 2023 |
+| Great Figures of Russian Literature | مشاهیر ادبیات روسیه | Rahnama | 2023 |
+| Culture of Russia | فرهنگ روسیه | Rahnama | 2023 |
+| Cities of Russia | شهرهای روسیه | Rahnama | 2022 |
+| Russian Orthodoxy | مسیحیت ارتدوکس روسی | Rahnama | 2025 |
+| Music of Russia | موسیقی روسیه | Rahnama | 2025 |
+| Russian Handwriting | خط تحریری روسی | Rahnama | 2023 |
+| Pure Words of the Cultured | سخنان ناب فرهیختگان | — | — |
 
 ---
 
@@ -303,7 +401,11 @@ I have authored and contributed to more than 20 books and educational resources 
 
 A dedicated bilingual page presents three papers that have been peer-reviewed and officially accepted for presentation and publication in the Fourth International Conference on Language, Literature, Culture and Historical Studies.
 
+<div dir="rtl" align="right">
+
 صفحه‌ای اختصاصی و دوزبانه شامل سه مقاله‌ای است که پس از داوری تخصصی، به‌طور رسمی برای ارائه و انتشار در چهارمین کنفرانس بین‌المللی زبان، ادبیات، فرهنگ و مطالعات تاریخی پذیرفته شده‌اند.
+
+</div>
 
 **[View the dedicated conference papers page | مشاهده صفحه اختصاصی مقالات کنفرانسی →](conference-papers.md)**
 
@@ -311,10 +413,15 @@ A dedicated bilingual page presents three papers that have been peer-reviewed an
 
 ## Academic Portfolio | پورتفولیو علمی
 
-This GitHub profile is being developed as an open academic portfolio containing research projects, educational resources, publications, bibliographic materials, and selected research documentation.  
+This GitHub profile is being developed as an open academic portfolio containing research projects, educational resources, publications, bibliographic materials, and selected research documentation.
+
+<div dir="rtl" align="right">
+
 این پروفایل گیت‌هاب به‌عنوان یک پورتفولیو علمی باز در حال توسعه است و شامل پروژه‌های پژوهشی، منابع آموزشی، انتشارات، مواد کتابشناختی و مستندات پژوهشی منتخب می‌شود.
 
-**Planned and developing repositories | مخازن برنامه‌ریزی‌شده و در حال توسعه:**
+</div>
+
+**Repositories | مخازن:**
 
 | Repository | توضیح |
 |------------|------:|
@@ -325,6 +432,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | `intercultural-communicative-competence` | شایستگی ارتباطی میان‌فرهنگی |
 | `academic-publications` | انتشارات علمی |
 | `RLS` | دوفصلنامه مطالعات زبان روسی |
+
 ---
 
 ## Academic & Professional Profiles | پروفایل‌های علمی و حرفه‌ای
@@ -339,21 +447,33 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | **X** | [@SheraginRubin](https://x.com/SheraginRubin) |
 | **Journal (RLS)** | [Russian Language Studies](https://mohammadmahdirubin.github.io/RLS/) |
 
-## 🎯 Current Focus | تمرکز فعلی
+---
+
+## Current Focus | تمرکز فعلی
 
 | English | فارسی |
 |---------|------:|
-| Online Russian language instruction (A1–C1) | تدریس آنلاین زبان روسی<br> C1 تا A1 سطوح|
+| Online Russian language instruction (A1–C1) | تدریس آنلاین زبان روسی (سطوح A1 تا C1) |
 | Developing new materials in the *Russia Studies* series | تألیف منابع جدید در مجموعه روسیه‌شناسی |
 | Translating and adapting educational content for Persian learners | ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان |
 | Developing and managing *Russian Language Studies* journal | توسعه و مدیریت دوفصلنامه مطالعات زبان روسی |
 
 ---
 
-## 💡 Open to Collaboration | آماده همکاری
+## Open to Collaboration | آماده همکاری
 
-I am open to collaboration on educational content, translation projects (Russian ↔ Persian), curriculum design, and digital learning resources.  
+I am open to collaboration on educational content, translation projects (Russian ↔ Persian), curriculum design, and digital learning resources.
+
+<div dir="rtl" align="right">
+
 آماده همکاری در زمینه تولید محتوای آموزشی، پروژه‌های ترجمه (روسی ↔ فارسی)، طراحی برنامه درسی و منابع دیجیتال یادگیری هستم.
 
-Feel free to reach out!  
+</div>
+
+Feel free to reach out!
+
+<div dir="rtl" align="right">
+
 خوشحال می‌شوم در ارتباط باشیم.
+
+</div>
