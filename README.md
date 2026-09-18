@@ -310,6 +310,7 @@ I have authored and contributed to more than 20 books and educational resources 
 
 ### Selected Publications
 <div dir="rtl" align="right"><strong>گزیده‌ای از کتاب‌ها</strong></div>
+**[Books Repository | مخزن کتاب‌ها →](https://github.com/Mohammadmahdirubin/academic-publications)**
 
 
 
