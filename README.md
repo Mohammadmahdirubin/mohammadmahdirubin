@@ -41,7 +41,8 @@ My work focuses on the intersection of language, literature, culture, translatio
 
 ---
 
-## About Me | درباره من
+## About Me
+<div dir="rtl" align="right"><strong>درباره من</strong></div>
 
 | English | فارسی |
 |---------|------:|
@@ -91,7 +92,8 @@ The journal aims to provide an academic platform for research, scholarly communi
 
 ---
 
-## Academic Memberships | عضویت‌های علمی
+## Academic Memberships
+<div dir="rtl" align="right"><strong>عضویت‌های علمی</strong></div>
 
 ### German Cognitive Linguistics Association (DGKL/GCLA)
 
@@ -131,7 +133,8 @@ Official website: https://www.dgkl-gcla.de/
 
 ---
 
-## Research Interests | علایق پژوهشی
+## Research Interests
+<div dir="rtl" align="right"><strong>علایق پژوهشی</strong></div>
 
 | English | فارسی |
 |---------|------:|
@@ -150,7 +153,8 @@ Official website: https://www.dgkl-gcla.de/
 
 ---
 
-## Current Research | پژوهش‌های جاری
+## Current Research
+<div dir="rtl" align="right"><strong>پژوهش‌های جاری</strong></div>
 
 ### Literary Texts as Pedagogical Mediators
 
@@ -158,7 +162,7 @@ My current research explores how authentic literary texts can function as pedago
 
 <div dir="rtl" align="right">
 
-### متون ادبی به‌عنوان میانجی‌های آموزشی
+<div dir="rtl" align="right"><strong>متون ادبی به‌عنوان میانجی‌های آموزشی</strong></div>
 
 پژوهش فعلی من بررسی می‌کند که چگونه متون ادبی اصیل می‌توانند به‌عنوان میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی عمل کنند.
 
@@ -188,7 +192,7 @@ Researching approaches to integrating language and culture in Russian language e
 
 <div dir="rtl" align="right">
 
-### زبان روسی و آموزش میان‌فرهنگی
+<div dir="rtl" align="right"><strong>زبان روسی و آموزش میان‌فرهنگی</strong></div>
 
 پژوهش در رویکردهای ادغام زبان و فرهنگ در آموزش زبان روسی، با توجه ویژه به درک میان‌فرهنگی و ارتباط معنادار.
 
@@ -200,7 +204,7 @@ Developing educational materials, curricula, and learning resources that integra
 
 <div dir="rtl" align="right">
 
-### طراحی برنامه درسی زبان روسی
+<div dir="rtl" align="right"><strong>طراحی برنامه درسی زبان روسی</strong></div>
 
 توسعه مواد آموزشی، برنامه‌های درسی و منابع یادگیری که شایستگی زبانی را با یادگیری ادبی، فرهنگی و میان‌فرهنگی ادغام می‌کنند.
 
@@ -208,7 +212,8 @@ Developing educational materials, curricula, and learning resources that integra
 
 ---
 
-## Research Philosophy | فلسفه پژوهشی
+## Research Philosophy
+<div dir="rtl" align="right"><strong>فلسفه پژوهشی</strong></div>
 
 I view language education as more than the development of grammatical and communicative competence.
 
@@ -238,7 +243,8 @@ This perspective informs my research, teaching materials, curriculum development
 
 ---
 
-## Published Journal Articles | مقالات منتشرشده در نشریات
+## Published Journal Articles
+<div dir="rtl" align="right"><strong>مقالات منتشرشده در نشریات</strong></div>
 
 **Designing AI-Supported Multimodal Russian Language Learning: A Conceptual Framework for Learner Autonomy, Critical AI Literacy, and Intercultural Competence**
 
@@ -270,7 +276,8 @@ This perspective informs my research, teaching materials, curriculum development
 
 ---
 
-## Selected Academic Themes | مضامین علمی منتخب
+## Selected Academic Themes
+<div dir="rtl" align="right"><strong>مضامین علمی منتخب</strong></div>
 
 | Theme | توضیح |
 |-------|-------|
@@ -282,7 +289,8 @@ This perspective informs my research, teaching materials, curriculum development
 
 ---
 
-## Books & Educational Publications | کتاب‌ها و انتشارات آموزشی
+## Books & Educational Publications
+<div dir="rtl" align="right"><strong>کتاب‌ها و انتشارات آموزشی</strong></div>
 
 I have authored and contributed to more than 20 books and educational resources related to Russian language, literature, culture, translation, and language education.
 
@@ -292,7 +300,8 @@ I have authored and contributed to more than 20 books and educational resources 
 
 </div>
 
-### Selected Publications | گزیده‌ای از کتاب‌ها
+### Selected Publications
+<div dir="rtl" align="right"><strong>گزیده‌ای از کتاب‌ها</strong></div>
 
 <table>
   <tr>
@@ -345,7 +354,8 @@ I have authored and contributed to more than 20 books and educational resources 
 
 ---
 
-## Conference Papers & Accepted Research | مقالات کنفرانسی و پژوهش‌های پذیرفته‌شده
+## Conference Papers & Accepted Research
+<div dir="rtl" align="right"><strong>مقالات کنفرانسی و پژوهش‌های پذیرفته‌شده</strong></div>
 
 A dedicated bilingual page presents three papers that have been peer-reviewed and officially accepted for presentation and publication in the Fourth International Conference on Language, Literature, Culture and Historical Studies.
 
@@ -359,7 +369,8 @@ A dedicated bilingual page presents three papers that have been peer-reviewed an
 
 ---
 
-## Academic Portfolio | پورتفولیو علمی
+## Academic Portfolio
+<div dir="rtl" align="right"><strong>پورتفولیو علمی</strong></div>
 
 This GitHub profile is being developed as an open academic portfolio containing research projects, educational resources, publications, bibliographic materials, and selected research documentation.
 
@@ -383,7 +394,8 @@ This GitHub profile is being developed as an open academic portfolio containing 
 
 ---
 
-## Academic & Professional Profiles | پروفایل‌های علمی و حرفه‌ای
+## Academic & Professional Profiles
+<div dir="rtl" align="right"><strong>پروفایل‌های علمی و حرفه‌ای</strong></div>
 
 | Platform | Link |
 |----------|------|
@@ -398,7 +410,8 @@ This GitHub profile is being developed as an open academic portfolio containing 
 
 ---
 
-## Current Focus | تمرکز فعلی
+## Current Focus
+<div dir="rtl" align="right"><strong>تمرکز فعلی</strong></div>
 
 | English | فارسی |
 |---------|------:|
@@ -409,7 +422,8 @@ This GitHub profile is being developed as an open academic portfolio containing 
 
 ---
 
-## Open to Collaboration | آماده همکاری
+## Open to Collaboration
+<div dir="rtl" align="right"><strong>آماده همکاری</strong></div>
 
 I am open to collaboration on educational content, translation projects (Russian ↔ Persian), curriculum design, and digital learning resources.
 
