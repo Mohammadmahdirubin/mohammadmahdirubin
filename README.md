@@ -60,47 +60,41 @@ My work focuses on the intersection of language, literature, culture, translatio
 
 ---
 
-## Journal | نشریه
+## Journal — Russian Language Studies (RLS)
 
-### Russian Language Studies (RLS)
+### English
 
-**English title:** Russian Language Studies  
-**Persian title:** دوفصلنامه مطالعات زبان روسی  
-**Russian title:** Исследования по русскому языку
+**Russian Language Studies (RLS)** is a scholarly biannual journal dedicated to research and academic studies in Russian language, linguistics, Russian language education, literature, culture, translation, and related interdisciplinary fields.
 
-**Role (English):** Publisher & Managing Editor of the biannual scholarly journal *Russian Language Studies*.
+**Role:** Publisher & Managing Editor of *Russian Language Studies*.
 
-<div dir="rtl" align="right">
+**Russian title:** *Исследования русского языка*
 
-**سمت (فارسی):** صاحب‌امتیاز و مدیرمسئول دوفصلنامه علمی مطالعات زبان روسی.
+The journal aims to provide an academic platform for research, scholarly communication, and the dissemination of studies related to the Russian language and Russian Studies.
 
-</div>
+**Ministry License Number:** 94254  
+**License Date:** July 24, 2023 (1402/05/02)
 
-The journal is dedicated to research on Russian language, linguistics, language education, literature, culture, translation, and related interdisciplinary studies.
+**Journal Website:** [Russian Language Studies (RLS)](https://mohammadmahdirubin.github.io/RLS/)  
+**GitHub Repository:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
 
-<div dir="rtl" align="right">
+---
 
-این نشریه به پژوهش در حوزه زبان روسی، زبان‌شناسی، آموزش زبان، ادبیات، فرهنگ، ترجمه و مطالعات میان‌رشته‌ای مرتبط اختصاص دارد.
+### فارسی
 
-</div>
+**دوفصلنامه مطالعات زبان روسی (RLS)** نشریه‌ای علمی است که به پژوهش و مطالعات دانشگاهی در حوزه زبان روسی، زبان‌شناسی، آموزش زبان روسی، ادبیات، فرهنگ، ترجمه و حوزه‌های میان‌رشته‌ای مرتبط اختصاص دارد.
 
-| Item | Value |
-|------|-------|
-| Ministry license | 94254 |
-| License date | 2023/07/24 (1402/05/02) |
-| Journal website | [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/) |
-| Repository | [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS) |
+**سمت:** صاحب‌امتیاز و مدیرمسئول دوفصلنامه *مطالعات زبان روسی*.
 
-<div dir="rtl" align="right">
+**عنوان روسی:** *Исследования русского языка*
 
-| مورد | مقدار |
-|------|-------|
-| مجوز وزارت فرهنگ و ارشاد اسلامی | ۹۴۲۵۴ |
-| تاریخ مجوز | ۱۴۰۲/۰۵/۰۲ |
-| وب‌سایت نشریه | [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/) |
-| مخزن | [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS) |
+این نشریه با هدف فراهم‌کردن بستری علمی برای پژوهش، ارتباطات علمی و انتشار مطالعات مرتبط با زبان روسی و مطالعات روسیه فعالیت می‌کند.
 
-</div>
+**شماره مجوز وزارت فرهنگ و ارشاد اسلامی:** ۹۴۲۵۴  
+**تاریخ مجوز:** ۲۴ ژوئیه ۲۰۲۳ (۱۴۰۲/۰۵/۰۲)
+
+**وب‌سایت نشریه:** [مطالعات زبان روسی (RLS)](https://mohammadmahdirubin.github.io/RLS/)  
+**مخزن گیت‌هاب:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
 
 ---
 
