@@ -311,38 +311,7 @@ I have authored and contributed to more than 20 books and educational resources 
 ### Selected Publications
 <div dir="rtl" align="right"><strong>گزیده‌ای از کتاب‌ها</strong></div>
 
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="largepreview.png" width="150"><br><b>Road to Russia 1</b><br>راه روسیه ۱</td>
-    <td align="center" width="33%"><img src="C600X500_991981485150.jpg" width="150"><br><b>Road to Russia 2</b><br>راه روسیه ۲</td>
-    <td align="center" width="33%"><img src="путь%20к%20успеху%201_1.jpg" width="150"><br><b>Path to Success 1</b><br>راه موفقیت ۱</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="путь%20к%20успеху%202_1.jpg" width="150"><br><b>Path to Success 2</b><br>راه موفقیت ۲</td>
-    <td align="center"><img src="энциклопедия_1%20(1).jpg" width="150"><br><b>Encyclopedia of Russia</b><br>دانشنامه روسیه</td>
-    <td align="center"><img src="جلد%20ادبیات%20روسیه_084430.jpg" width="150"><br><b>Great Figures of Russian Literature</b><br>مشاهیر ادبیات روسیه</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="جلد%20فرهنگ%20روسیه_084716.jpg" width="150"><br><b>Culture of Russia</b><br>فرهنگ روسیه</td>
-    <td align="center"><img src="جلد%20شهرهای%20روسیه_021732.jpg" width="150"><br><b>Cities of Russia</b><br>شهرهای روسیه</td>
-    <td align="center"><img src="مسیحیت%20ارتدوکس%20روسی%20_1.jpg" width="150"><br><b>Russian Orthodoxy</b><br>مسیحیت ارتدوکس روسی</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="موسیقی%20روسیه%20_1.jpg" width="150"><br><b>Music of Russia</b><br>موسیقی روسیه</td>
-    <td align="center"><img src="سخنان%20ناب_1.jpg" width="150"><br><b>Pure Words of the Cultured</b><br>سخنان ناب فرهیختگان</td>
-    <td align="center"><img src="учимся%20писать%20по-русски_1.jpg" width="150"><br><b>Russian Handwriting</b><br>خط تحریری روسی</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="читаем%20без%20проблем%201_1.jpg" width="150"><br><b>Russian Reading 1</b><br>روخوانی زبان روسی ۱</td>
-    <td align="center"><img src="читаем%20без%20проблем%202_1.jpg" width="150"><br><b>Russian Reading 2</b><br>روخوانی زبان روسی ۲</td>
-    <td align="center"><img src="کتاب_روخوانی_زبان_روسی_3.jpg" width="150"><br><b>Russian Reading 3</b><br>روخوانی زبان روسی ۳</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="читаем%20без%20проблем%204_1.jpg" width="150"><br><b>Russian Reading 4</b><br>روخوانی زبان روسی ۴</td>
-    <td align="center"><img src="путь%20к%20успеху%201%20_%20рабочая%20тетрадь_1.jpg" width="150"><br><b>Path to Success 1 - Workbook</b><br>راه موفقیت ۱ - کتاب تمرین</td>
-    <td align="center"><img src="фотки%20успеху%202%20рабочая%20тетрадь_1.jpg" width="150"><br><b>Path to Success 2 - Workbook</b><br>راه موفقیت ۲ - کتاب تمرین</td>
-  </tr>
-</table>
+
 
 <br>
 
