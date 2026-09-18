@@ -383,19 +383,15 @@ This GitHub profile is being developed as an open academic portfolio containing 
 
 ## Open to Collaboration
 
-<div dir="rtl" align="right"><strong>آماده همکاری</strong></div>
-
 I am open to collaboration on educational content, translation projects (Russian ↔ Persian), curriculum design, and digital learning resources.
-
-<div dir="rtl" align="right">
-
-آماده همکاری در زمینه تولید محتوای آموزشی، پروژه‌های ترجمه (روسی ↔ فارسی)، طراحی برنامه درسی و منابع دیجیتال یادگیری هستم.
-
-</div>
 
 Feel free to reach out!
 
 <div dir="rtl" align="right">
+
+<strong>آماده همکاری</strong>
+
+آماده همکاری در زمینه تولید محتوای آموزشی، پروژه‌های ترجمه (روسی ↔ فارسی)، طراحی برنامه درسی و منابع دیجیتال یادگیری هستم.
 
 خوشحال می‌شوم در ارتباط باشیم.
 
