@@ -9,7 +9,9 @@
 <h3 align="center">سلام، من محمدمهدی روبین هستم</h3>
 
 **Russian Language Educator · Researcher · Author · Translator · Curriculum Developer**  
-**مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی**
+**Publisher & Managing Editor, Russian Language Studies (RLS)**  
+**مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی**  
+**صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی**
 
 Welcome to my academic and professional GitHub profile.  
 به پروفایل علمی و حرفه‌ای من در گیت‌هاب خوش آمدید.
@@ -34,9 +36,30 @@ My work focuses on the intersection of language, literature, culture, translatio
 | Translator of Russian literary, academic, and cultural texts into Persian | مترجم متون ادبی، علمی و فرهنگی روسی به فارسی |
 | Curriculum developer and educational content designer | طراح برنامه درسی و تولیدکننده محتوای آموزشی |
 | Independent researcher in Russian Studies and language education | پژوهشگر مستقل در مطالعات روسیه و آموزش زبان |
+| **Publisher & Managing Editor of *Russian Language Studies*** | **صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی** |
 
 ---
- 
+
+## Journal | نشریه
+
+### Russian Language Studies (RLS)  
+### دوفصلنامه مطالعات زبان روسی
+
+**Publisher & Managing Editor** of the biannual scholarly journal *Russian Language Studies* (Persian: دوفصلنامه مطالعات زبان روسی; Russian: Исследования по русскому языку).  
+**صاحب‌امتیاز و مدیرمسئول** دوفصلنامه علمی *مطالعات زبان روسی* با نام انگلیسی *Russian Language Studies* و نام روسی *Исследования по русскому языку*.
+
+The journal is dedicated to research on Russian language, linguistics, language education, literature, culture, translation, and related interdisciplinary studies.  
+این نشریه به پژوهش در حوزه زبان روسی، زبان‌شناسی، آموزش زبان، ادبیات، فرهنگ، ترجمه و مطالعات میان‌رشته‌ای مرتبط اختصاص دارد.
+
+- **Ministry of Culture and Islamic Guidance License:** 94254  
+  **مجوز وزارت فرهنگ و ارشاد اسلامی:** ۹۴۲۵۴
+- **License date:** 2023/07/24 (1402/05/02)  
+  **تاریخ مجوز:** ۱۴۰۲/۰۵/۰۲
+- **Journal website | وب‌سایت نشریه:** [mohammadmahdirubin.github.io/RLS](https://mohammadmahdirubin.github.io/RLS/)
+- **Repository | مخزن:** [github.com/Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS)
+
+---
+
 ## Academic Memberships | عضویت‌های علمی
 
 ### German Cognitive Linguistics Association (DGKL/GCLA)
@@ -54,6 +77,16 @@ My work focuses on the intersection of language, literature, culture, translatio
 </div>
 
 Official website: https://www.dgkl-gcla.de/
+
+### Iran Book and Literature House | خانه کتاب و ادبیات ایران
+
+**Member, Iran Book and Literature House**  
+**عضو خانه کتاب و ادبیات ایران**
+
+### Writers' Association of Saraye Ahle Qalam | کانون نویسندگان سرای اهل قلم
+
+**Member, Writers' Association of Saraye Ahle Qalam**  
+**عضو کانون نویسندگان سرای اهل قلم**
 
 ---
 
@@ -291,6 +324,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | `russian-persian-translation` | ترجمه روسی–فارسی |
 | `intercultural-communicative-competence` | شایستگی ارتباطی میان‌فرهنگی |
 | `academic-publications` | انتشارات علمی |
+| `RLS` | دوفصلنامه مطالعات زبان روسی |
 ---
 
 ## Academic & Professional Profiles | پروفایل‌های علمی و حرفه‌ای
@@ -303,6 +337,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | **Telegram** | [@Sheraginrubin](https://t.me/Sheraginrubin) |
 | **Civilica** | [Mohammadmahdi Rubin](https://en.civilica.com/p/371218/) |
 | **X** | [@SheraginRubin](https://x.com/SheraginRubin) |
+| **Journal (RLS)** | [Russian Language Studies](https://mohammadmahdirubin.github.io/RLS/) |
 
 ## 🎯 Current Focus | تمرکز فعلی
 
@@ -311,6 +346,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | Online Russian language instruction (A1–C1) | تدریس آنلاین زبان روسی<br> C1 تا A1 سطوح|
 | Developing new materials in the *Russia Studies* series | تألیف منابع جدید در مجموعه روسیه‌شناسی |
 | Translating and adapting educational content for Persian learners | ترجمه و بومی‌سازی محتوای آموزشی برای زبان‌آموزان فارسی‌زبان |
+| Developing and managing *Russian Language Studies* journal | توسعه و مدیریت دوفصلنامه مطالعات زبان روسی |
 
 ---
 
