@@ -95,20 +95,11 @@ The journal aims to provide an academic platform for research, scholarly communi
 
 ## Academic Memberships
 
-<div dir="rtl" align="right"><strong>عضویت‌های علمی</strong></div>
-
 ### German Cognitive Linguistics Association (DGKL/GCLA)
 
 **Member, German Cognitive Linguistics Association (DGKL/GCLA)**  
 *Deutsche Gesellschaft für Kognitive Linguistik*  
 **2026–Present**
-
-<div dir="rtl" align="right">
-
-**عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
-**از ۲۰۲۶ تاکنون**
-
-</div>
 
 Official website: https://www.dgkl-gcla.de/
 
@@ -117,23 +108,36 @@ Official website: https://www.dgkl-gcla.de/
 **Member, Iran Book and Literature House**  
 [Profile](https://B2n.ir/qx4280)
 
-<div dir="rtl" align="right">
-
-**عضو خانه کتاب و ادبیات ایران**
-
-</div>
-
 ### Writers' Association of Saraye Ahle Qalam
 
 **Member, Writers' Association of Saraye Ahle Qalam**
 
 <div dir="rtl" align="right">
 
+<strong>عضویت‌های علمی</strong>
+
+### انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)
+
+**عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
+*انجمن زبان‌شناسی شناختی آلمان*  
+**از ۲۰۲۶ تاکنون**
+
+وب‌سایت رسمی: https://www.dgkl-gcla.de/
+
+### خانه کتاب و ادبیات ایران
+
+**عضو خانه کتاب و ادبیات ایران**  
+[پروفایل]
+
+### کانون نویسندگان سرای اهل قلم
+
 **عضو کانون نویسندگان سرای اهل قلم**
 
 </div>
 
 ---
+
+## Research Interests---
 
 ## Research Interests
 
