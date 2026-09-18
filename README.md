@@ -34,6 +34,19 @@ My work focuses on the intersection of language, literature, culture, translatio
 | Translator of Russian literary, academic, and cultural texts into Persian | مترجم متون ادبی، علمی و فرهنگی روسی به فارسی |
 | Curriculum developer and educational content designer | طراح برنامه درسی و تولیدکننده محتوای آموزشی |
 | Independent researcher in Russian Studies and language education | پژوهشگر مستقل در مطالعات روسیه و آموزش زبان |
+
+---
+ 
+## Academic Memberships | عضویت‌های علمی
+
+### German Cognitive Linguistics Association (DGKL/GCLA)
+
+**Member, German Cognitive Linguistics Association (DGKL/GCLA)**  
+*Deutsche Gesellschaft für Kognitive Linguistik*  
+**2026–Present**
+
+Official website: https://www.dgkl-gcla.de/
+
 ---
 
 ## Research Interests | علایق پژوهشی
