@@ -238,6 +238,38 @@ This perspective informs my research, teaching materials, curriculum development
 
 ---
 
+## Published Journal Articles | مقالات منتشرشده در نشریات
+
+**Designing AI-Supported Multimodal Russian Language Learning: A Conceptual Framework for Learner Autonomy, Critical AI Literacy, and Intercultural Competence**
+
+**Author:** Mohammadmahdi Rubin  
+**Journal:** *Russian Language Studies (RLS)*  
+**Volume / Issue:** Volume 1, Issue 1  
+**Online Publication:** September 17, 2026  
+**Type:** Research Article · Conceptual Study  
+**DOI:** Pending
+
+**[View Article →](https://mohammadmahdirubin.github.io/RLS/article-ai-supported-multimodal-russian-language-learning.html)**  
+**[Articles List →](https://mohammadmahdirubin.github.io/RLS/articles.html)**
+
+<div dir="rtl" align="right">
+
+**طراحی آموزش چندوجهی زبان روسی با پشتیبانی هوش مصنوعی: چارچوبی مفهومی برای خودمختاری یادگیرنده، سواد انتقادی هوش مصنوعی و شایستگی بین‌فرهنگی**
+
+**نویسنده:** محمدمهدی روبین  
+**نشریه:** *دوفصلنامه مطالعات زبان روسی (RLS)*  
+**دوره / شماره:** دوره ۱، شماره ۱  
+**تاریخ انتشار آنلاین:** ۲۶ شهریور ۱۴۰۵ / ۱۷ سپتامبر ۲۰۲۶  
+**نوع مقاله:** مقاله پژوهشی · مطالعه مفهومی  
+**DOI:** در انتظار تخصیص
+
+**[مشاهده مقاله →](https://mohammadmahdirubin.github.io/RLS/article-ai-supported-multimodal-russian-language-learning.html)**  
+**[فهرست مقالات →](https://mohammadmahdirubin.github.io/RLS/articles.html)**
+
+</div>
+
+---
+
 ## Selected Academic Themes | مضامین علمی منتخب
 
 | Theme | توضیح |
