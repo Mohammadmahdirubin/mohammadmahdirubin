@@ -124,6 +124,8 @@ Official website: https://www.dgkl-gcla.de/
 
 ### کانون نویسندگان سرای اهل قلم
 
+[svg](https://github.com/mohammadmahdirubin#%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B3%D8%B1%D8%A7%DB%8C-%D8%A7%D9%87%D9%84-%D9%82%D9%84%D9%85)
+
 **عضو کانون نویسندگان سرای اهل قلم**
 
 </div>
