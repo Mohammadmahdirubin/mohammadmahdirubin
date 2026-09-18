@@ -3,41 +3,34 @@
 </p>
 
 <h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
-<h3 align="center">سلام، من محمدمهدی روبین هستم</h3>
 
 <p align="center">
 <strong>Russian Language Educator · Researcher · Author · Translator · Curriculum Developer</strong><br>
 <strong>Publisher & Managing Editor, Russian Language Studies (RLS)</strong>
 </p>
 
-<p align="center" dir="rtl">
-<strong>مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی</strong><br>
-<strong>صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی</strong>
-</p>
-
 Welcome to my academic and professional GitHub profile.
 
-<div dir="rtl" align="right">
-
-به پروفایل علمی و حرفه‌ای من در گیت‌هاب خوش آمدید.
-
-</div>
-
 I am a Russian language educator, researcher, author, translator, and curriculum developer with more than 25 years of experience in Russian language education, literature, culture, translation, and educational content development.
-
-<div dir="rtl" align="right">
-
-من مدرس زبان روسی، پژوهشگر، نویسنده، مترجم و طراح برنامه درسی هستم و بیش از ۲۵ سال تجربه در آموزش زبان روسی، ادبیات، فرهنگ، ترجمه و تولید محتوای آموزشی دارم.
-
-</div>
 
 My work focuses on the intersection of language, literature, culture, translation, and intercultural communication, with particular emphasis on Russian as a Foreign Language (RFL) education and the development of Intercultural Communicative Competence (ICC).
 
 <div dir="rtl" align="right">
 
-تمرکز کار من بر تلاقی زبان، ادبیات، فرهنگ، ترجمه و ارتباطات میان‌فرهنگی است، با تأکید ویژه بر آموزش زبان روسی به‌عنوان زبان خارجی (RFL) و توسعه شایستگی ارتباطی میان‌فرهنگی (ICC).
+<h3>سلام، من محمدمهدی روبین هستم</h3>
+
+<strong>مدرس زبان روسی · پژوهشگر · نویسنده · مترجم · طراح برنامه درسی</strong><br>
+<strong>صاحب‌امتیاز و مدیرمسئول دوفصلنامه مطالعات زبان روسی</strong>
+
+<p>به پروفایل علمی و حرفه‌ای من در گیت‌هاب خوش آمدید.</p>
+
+<p>من مدرس زبان روسی، پژوهشگر، نویسنده، مترجم و طراح برنامه درسی هستم و بیش از ۲۵ سال تجربه در آموزش زبان روسی، ادبیات، فرهنگ، ترجمه و تولید محتوای آموزشی دارم.</p>
+
+<p>تمرکز کار من بر تلاقی زبان، ادبیات، فرهنگ، ترجمه و ارتباطات میان‌فرهنگی است، با تأکید ویژه بر آموزش زبان روسی به‌عنوان زبان خارجی (RFL) و توسعه شایستگی ارتباطی میان‌فرهنگی (ICC).</p>
 
 </div>
+
+---
 
 ---
 
