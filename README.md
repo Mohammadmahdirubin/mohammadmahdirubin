@@ -218,29 +218,23 @@ Developing educational materials, curricula, and learning resources that integra
 
 ## Research Philosophy
 
-<div dir="rtl" align="right"><strong>فلسفه پژوهشی</strong></div>
-
 I view language education as more than the development of grammatical and communicative competence.
-
-<div dir="rtl" align="right">
-
-من آموزش زبان را فراتر از توسعه شایستگی دستوری و ارتباطی می‌بینم.
-
-</div>
 
 Effective language learning can also provide learners with opportunities to engage with:
 
 **Language → Literature → Culture → Interpretation → Critical Thinking → Intercultural Understanding**
 
-<div dir="rtl" align="right">
-
-**زبان ← ادبیات ← فرهنگ ← تفسیر ← تفکر انتقادی ← درک میان‌فرهنگی**
-
-</div>
-
 This perspective informs my research, teaching materials, curriculum development, and translation work.
 
 <div dir="rtl" align="right">
+
+<strong>فلسفه پژوهشی</strong>
+
+من آموزش زبان را فراتر از توسعه شایستگی دستوری و ارتباطی می‌بینم.
+
+یادگیری مؤثر زبان همچنین می‌تواند فرصت‌هایی برای تعامل با موارد زیر در اختیار زبان‌آموزان قرار دهد:
+
+**زبان ← ادبیات ← فرهنگ ← تفسیر ← تفکر انتقادی ← درک میان‌فرهنگی**
 
 این دیدگاه پژوهش، مواد آموزشی، طراحی برنامه درسی و کارهای ترجمه‌ام را شکل می‌دهد.
 
