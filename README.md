@@ -62,8 +62,6 @@ My work focuses on the intersection of language, literature, culture, translatio
 
 ## Journal — Russian Language Studies (RLS)
 
-### English
-
 **Russian Language Studies (RLS)** is a scholarly biannual journal dedicated to research and academic studies in Russian language, linguistics, Russian language education, literature, culture, translation, and related interdisciplinary fields.
 
 **Role:** Publisher & Managing Editor of *Russian Language Studies*.
@@ -79,8 +77,6 @@ The journal aims to provide an academic platform for research, scholarly communi
 **GitHub Repository:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
 
 ---
-
-### فارسی
 
 **دوفصلنامه مطالعات زبان روسی (RLS)** نشریه‌ای علمی است که به پژوهش و مطالعات دانشگاهی در حوزه زبان روسی، زبان‌شناسی، آموزش زبان روسی، ادبیات، فرهنگ، ترجمه و حوزه‌های میان‌رشته‌ای مرتبط اختصاص دارد.
 
