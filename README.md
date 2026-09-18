@@ -162,49 +162,19 @@ Official website: https://www.dgkl-gcla.de/
 
 ## Current Research
 
-<div dir="rtl" align="right"><strong>پژوهش‌های جاری</strong></div>
-
 ### Literary Texts as Pedagogical Mediators
 
 My current research explores how authentic literary texts can function as pedagogical mediators in Russian as a Foreign Language education.
-
-<div dir="rtl" align="right">
-
-<strong>متون ادبی به‌عنوان میانجی‌های آموزشی</strong>
-
-پژوهش فعلی من بررسی می‌کند که چگونه متون ادبی اصیل می‌توانند به‌عنوان میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی عمل کنند.
-
-</div>
 
 The research examines the relationship between:
 
 **Literary Texts → Language Development → Cultural Understanding → Critical Interpretation → Intercultural Communicative Competence**
 
-<div dir="rtl" align="right">
-
-**متون ادبی ← رشد زبانی ← درک فرهنگی ← تفسیر انتقادی ← شایستگی ارتباطی میان‌فرهنگی**
-
-</div>
-
 The broader aim is to develop an integrated conceptual and pedagogical framework for using literature in university-level Russian language education.
-
-<div dir="rtl" align="right">
-
-هدف گسترده‌تر، توسعه یک چارچوب مفهومی و آموزشی یکپارچه برای استفاده از ادبیات در آموزش زبان روسی در سطح دانشگاه است.
-
-</div>
 
 ### Russian Language and Intercultural Education
 
 Researching approaches to integrating language and culture in Russian language education, with particular attention to intercultural understanding and meaningful communication.
-
-<div dir="rtl" align="right">
-
-<strong>زبان روسی و آموزش میان‌فرهنگی</strong>
-
-پژوهش در رویکردهای ادغام زبان و فرهنگ در آموزش زبان روسی، با توجه ویژه به درک میان‌فرهنگی و ارتباط معنادار.
-
-</div>
 
 ### Russian Language Curriculum Development
 
@@ -212,7 +182,23 @@ Developing educational materials, curricula, and learning resources that integra
 
 <div dir="rtl" align="right">
 
-<strong>طراحی برنامه درسی زبان روسی</strong>
+<strong>پژوهش‌های جاری</strong>
+
+### متون ادبی به‌عنوان میانجی‌های آموزشی
+
+پژوهش فعلی من بررسی می‌کند که چگونه متون ادبی اصیل می‌توانند به‌عنوان میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی عمل کنند.
+
+این پژوهش رابطه میان موارد زیر را بررسی می‌کند:
+
+**متون ادبی ← رشد زبانی ← درک فرهنگی ← تفسیر انتقادی ← شایستگی ارتباطی میان‌فرهنگی**
+
+هدف گسترده‌تر، توسعه یک چارچوب مفهومی و آموزشی یکپارچه برای استفاده از ادبیات در آموزش زبان روسی در سطح دانشگاه است.
+
+### زبان روسی و آموزش میان‌فرهنگی
+
+پژوهش در رویکردهای ادغام زبان و فرهنگ در آموزش زبان روسی، با توجه ویژه به درک میان‌فرهنگی و ارتباط معنادار.
+
+### طراحی برنامه درسی زبان روسی
 
 توسعه مواد آموزشی، برنامه‌های درسی و منابع یادگیری که شایستگی زبانی را با یادگیری ادبی، فرهنگی و میان‌فرهنگی ادغام می‌کنند.
 
