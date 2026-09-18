@@ -45,6 +45,14 @@ My work focuses on the intersection of language, literature, culture, translatio
 *Deutsche Gesellschaft für Kognitive Linguistik*  
 **2026–Present**
 
+<div dir="rtl" align="right">
+
+**عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
+*انجمن زبان‌شناسی شناختی آلمان*  
+**از ۲۰۲۶ تاکنون**
+
+</div>
+
 Official website: https://www.dgkl-gcla.de/
 
 ---
