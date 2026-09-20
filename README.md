@@ -65,7 +65,7 @@ The journal aims to provide an academic platform for research, scholarly communi
 **Ministry License Number:** 94254  
 **License Date:** July 24, 2023 (1402/05/02)
 
-**Journal Website:** [Russian Language Studies (RLS)](https://mohammadmahdirubin.github.io/RLS/)  
+**Journal Website:** [Russian Language Studies (RLS)](https://rlsj.ir/index.html)  
 **GitHub Repository:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
 
 ---
@@ -81,7 +81,7 @@ The journal aims to provide an academic platform for research, scholarly communi
 **شماره مجوز وزارت فرهنگ و ارشاد اسلامی:** ۹۴۲۵۴  
 **تاریخ مجوز:** ۲۴ ژوئیه ۲۰۲۳ (۱۴۰۲/۰۵/۰۲)
 
-**وب‌سایت نشریه:** [مطالعات زبان روسی (RLS)](https://mohammadmahdirubin.github.io/RLS/)  
+**وب‌سایت نشریه:** [مطالعات زبان روسی (RLS)](https://rlsj.ir/index.html)  
 **مخزن گیت‌هاب:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
 
 ---
@@ -236,8 +236,8 @@ This perspective informs my research, teaching materials, curriculum development
 **Type:** Research Article · Conceptual Study  
 **DOI:** Pending
 
-**[View Article →](https://mohammadmahdirubin.github.io/RLS/article-ai-supported-multimodal-russian-language-learning.html)**  
-**[Articles List →](https://mohammadmahdirubin.github.io/RLS/articles.html)**
+**[View Article →](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)**  
+**[Articles List →](https://rlsj.ir/articles.html)**
 
 <div dir="rtl" align="right">
 
@@ -250,8 +250,8 @@ This perspective informs my research, teaching materials, curriculum development
 **نوع مقاله:** مقاله پژوهشی · مطالعه مفهومی  
 **DOI:** در انتظار تخصیص
 
-**[مشاهده مقاله →](https://mohammadmahdirubin.github.io/RLS/article-ai-supported-multimodal-russian-language-learning.html)**  
-**[فهرست مقالات →](https://mohammadmahdirubin.github.io/RLS/articles.html)**
+**[مشاهده مقاله →](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)**  
+**[فهرست مقالات →](https://rlsj.ir/articles.html)**
 
 </div>
 
@@ -360,7 +360,7 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | **Civilica** | [Mohammadmahdi Rubin](https://en.civilica.com/p/371218/) |
 | **Iran Book and Literature House** | [خانه کتاب و ادبیات ایران](https://B2n.ir/qx4280) |
 | **X** | [@SheraginRubin](https://x.com/SheraginRubin) |
-| **Journal (RLS)** | [Russian Language Studies](https://mohammadmahdirubin.github.io/RLS/) |
+| **Journal (RLS)** | [Russian Language Studies](https://rlsj.ir/index.html) |
 
 ---
 
