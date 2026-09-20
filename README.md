@@ -65,8 +65,7 @@ The journal aims to provide an academic platform for research, scholarly communi
 **Ministry License Number:** 94254  
 **License Date:** July 24, 2023 (1402/05/02)
 
-**Journal Website:** [Russian Language Studies (RLS)](https://rlsj.ir/index.html)  
-**GitHub Repository:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
+**Journal Website:** [Russian Language Studies (RLS)](https://rlsj.ir/index.html)
 
 ---
 
@@ -81,8 +80,7 @@ The journal aims to provide an academic platform for research, scholarly communi
 **شماره مجوز وزارت فرهنگ و ارشاد اسلامی:** ۹۴۲۵۴  
 **تاریخ مجوز:** ۲۴ ژوئیه ۲۰۲۳ (۱۴۰۲/۰۵/۰۲)
 
-**وب‌سایت نشریه:** [مطالعات زبان روسی (RLS)](https://rlsj.ir/index.html)  
-**مخزن گیت‌هاب:** [Mohammadmahdirubin/RLS](https://github.com/Mohammadmahdirubin/RLS/)
+**وب‌سایت نشریه:** [مطالعات زبان روسی (RLS)](https://rlsj.ir/index.html)
 
 ---
 
@@ -343,7 +341,6 @@ This GitHub profile is being developed as an open academic portfolio containing 
 | `russian-persian-translation` | ترجمه روسی–فارسی |
 | `intercultural-communicative-competence` | شایستگی ارتباطی میان‌فرهنگی |
 | `academic-publications` | انتشارات علمی |
-| `RLS` | دوفصلنامه مطالعات زبان روسی |
 
 ---
 
