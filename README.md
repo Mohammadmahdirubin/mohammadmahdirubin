@@ -1,7 +1,6 @@
 <p align="center">
   <img src="CM_Photogrid_1786906212360.png" width="240" style="max-width: 100%; height: auto;" alt="Mohammadmahdi Rubin"/>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=Mohammadmahdirubin&label=Profile+views&color=0e75b6&style=flat-square)
 
 <h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
 
