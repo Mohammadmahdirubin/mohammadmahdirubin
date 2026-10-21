@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi there, I'm Mohammadmahdi Rubin</h1>
-![Profile views](https://komarev.com/ghpvc/?username=Mohammadmahdirubin&label=Profile+views&color=0e75b6&style=flat-square)
 <p align="center">
 <strong>Russian Language Educator · Researcher · Author · Translator · Curriculum Developer</strong><br>
 <strong>Publisher & Managing Editor, Russian Language Studies (RLS)</strong>
