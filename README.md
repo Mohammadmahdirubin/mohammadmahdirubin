@@ -14,7 +14,7 @@ Welcome to my academic and professional GitHub profile.
 I am a Russian language educator, researcher, author, translator, and curriculum developer with more than 25 years of experience in Russian language education, literature, culture, translation, and educational content development.
 
 My work focuses on the intersection of language, literature, culture, translation, and intercultural communication, with particular emphasis on Russian as a Foreign Language (RFL) education and the development of Intercultural Communicative Competence (ICC).
-
+![Profile views](https://komarev.com/ghpvc/?username=Mohammadmahdirubin&label=Profile+views&color=0e75b6&style=flat-square)
 <div dir="rtl" align="right">
 
 <h3>سلام، من محمدمهدی روبین هستم</h3>
