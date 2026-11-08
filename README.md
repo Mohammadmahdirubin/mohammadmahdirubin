@@ -109,26 +109,20 @@ Official website: https://www.dgkl-gcla.de/
 
 <strong>عضویت‌های علمی</strong>
 
-### انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA) 🇩🇪
-
-**عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
-*انجمن زبان‌شناسی شناختی آلمان*  
-**از ۲۰۲۶ تاکنون**
-
-وب‌سایت رسمی: https://www.dgkl-gcla.de/
-
-### انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.) 🇩🇪
-
-**عضو انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)**
-
-### خانه کتاب و ادبیات ایران 🇮🇷
-
-**عضو خانه کتاب و ادبیات ایران**  
-https://b2n.ir/qx4280
-
-### کانون نویسندگان سرای اهل قلم 🇮🇷
-
-**عضو کانون نویسندگان سرای اهل قلم**
+<ul dir="rtl" align="right">
+<li>🇩🇪 <strong>انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)</strong><br>
+عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)<br>
+<em>انجمن زبان‌شناسی شناختی آلمان</em><br>
+<strong>از ۲۰۲۶ تاکنون</strong><br>
+وب‌سایت رسمی: https://www.dgkl-gcla.de/</li>
+<li>🇩🇪 <strong>انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)</strong><br>
+عضو انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)</li>
+<li>🇮🇷 <strong>خانه کتاب و ادبیات ایران</strong><br>
+عضو خانه کتاب و ادبیات ایران<br>
+https://b2n.ir/qx4280</li>
+<li>🇮🇷 <strong>کانون نویسندگان سرای اهل قلم</strong><br>
+عضو کانون نویسندگان سرای اهل قلم</li>
+</ul>
 
 </div>
 
