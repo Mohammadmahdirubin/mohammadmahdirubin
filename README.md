@@ -84,43 +84,51 @@ The journal aims to provide an academic platform for research, scholarly communi
 
 ## Academic Memberships
 
-### German Cognitive Linguistics Association (DGKL/GCLA)
+### 🇩🇪 German Cognitive Linguistics Association (DGKL/GCLA)
 
-**Member, German Cognitive Linguistics Association (DGKL/GCLA)**  
+**🇩🇪 Member, German Cognitive Linguistics Association (DGKL/GCLA)**  
 *Deutsche Gesellschaft für Kognitive Linguistik*  
 **2026–Present**
 
 Official website: https://www.dgkl-gcla.de/
 
-### Iran Book and Literature House
+### 🇩🇪 Association for Diversity in Linguistics (Diversität in der Linguistik e.V.)
 
-**Member, Iran Book and Literature House**  
+**🇩🇪 Member, Association for Diversity in Linguistics (Diversität in der Linguistik e.V.)**
+
+### 🇮🇷 Iran Book and Literature House
+
+**🇮🇷 Member, Iran Book and Literature House**  
 [Profile](https://B2n.ir/qx4280)
 
-### Writers' Association of Saraye Ahle Qalam
+### 🇮🇷 Writers' Association of Saraye Ahle Qalam
 
-**Member, Writers' Association of Saraye Ahle Qalam**
+**🇮🇷 Member, Writers' Association of Saraye Ahle Qalam**
 
 <div dir="rtl" align="right">
 
 <strong>عضویت‌های علمی</strong>
 
-### انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)
+### 🇩🇪 انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)
 
-**عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
+**🇩🇪 عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
 *انجمن زبان‌شناسی شناختی آلمان*  
 **از ۲۰۲۶ تاکنون**
 
 وب‌سایت رسمی: https://www.dgkl-gcla.de/
 
-### خانه کتاب و ادبیات ایران
+### 🇩🇪 انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)
 
-**عضو خانه کتاب و ادبیات ایران**  
+**🇩🇪 عضو انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)**
+
+### 🇮🇷 خانه کتاب و ادبیات ایران
+
+**🇮🇷 عضو خانه کتاب و ادبیات ایران**  
 https://b2n.ir/qx4280
 
-### کانون نویسندگان سرای اهل قلم
+### 🇮🇷 کانون نویسندگان سرای اهل قلم
 
-**عضو کانون نویسندگان سرای اهل قلم**
+**🇮🇷 عضو کانون نویسندگان سرای اهل قلم**
 
 </div>
 
