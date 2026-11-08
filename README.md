@@ -109,7 +109,7 @@ Official website: https://www.dgkl-gcla.de/
 
 <strong>عضویت‌های علمی</strong>
 
-### 🇩🇪&#8206; انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)
+### انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA) 🇩🇪
 
 **عضو انجمن زبان‌شناسی شناختی آلمان (DGKL/GCLA)**  
 *انجمن زبان‌شناسی شناختی آلمان*  
@@ -117,16 +117,16 @@ Official website: https://www.dgkl-gcla.de/
 
 وب‌سایت رسمی: https://www.dgkl-gcla.de/
 
-### 🇩🇪&#8206; انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)
+### انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.) 🇩🇪
 
 **عضو انجمن تنوع در زبان‌شناسی آلمان (Association for Diversity in Linguistics e.V.)**
 
-### 🇮🇷&#8206; خانه کتاب و ادبیات ایران
+### خانه کتاب و ادبیات ایران 🇮🇷
 
 **عضو خانه کتاب و ادبیات ایران**  
 https://b2n.ir/qx4280
 
-### 🇮🇷&#8206; کانون نویسندگان سرای اهل قلم
+### کانون نویسندگان سرای اهل قلم 🇮🇷
 
 **عضو کانون نویسندگان سرای اهل قلم**
 
